@@ -1,0 +1,9 @@
+{
+  "schemaVersion": "instruct.error.v1",
+  "requestId": "request-denied",
+  "error": {
+    "code": "not_found",
+    "message": "Resource not found.",
+    "retryable": false
+  }
+}

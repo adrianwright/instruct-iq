@@ -1,0 +1,106 @@
+{
+  "schemaVersion": "instruct.final.v1",
+  "requestId": "request-demo-001",
+  "result": {
+    "schemaVersion": "instruct.plan.v1",
+    "planId": "plan-demo-001",
+    "revision": 1,
+    "requestId": "request-demo-001",
+    "principal": {"tenantId":"tenant-synthetic","subject":"teacher-synthetic"},
+    "classId": "class-science-7a",
+    "assessmentId": "assessment-20261016",
+    "scenario": {"assessmentDate":"2026-10-16","lessonDate":"2026-10-19","timezone":"America/New_York","planningCutoff":"2026-10-19T07:00:00-04:00","lessonMinutes":35,"studentCount":24},
+    "generatedAt": "2026-10-19T07:00:00-04:00",
+    "executionMode": "development_example",
+    "status": "complete",
+    "sources": [
+      {
+        "schemaVersion":"instruct.provider.v1","classId":"class-science-7a","assessmentId":"assessment-20261016","source":"foundry","requested":true,"state":"succeeded","reason":"Development-only example; no provider was called.","durationMs":0,
+        "evidence":[{
+          "refId":"ref-requirements","classId":"class-science-7a","source":"foundry","documentId":"doc-requirements",
+          "title":"Development-only approved requirements","locator":"synthetic-content:1",
+          "excerpt":"Approved objective: interpret graphs and select evidence for scientific claims. Approved support for student-01: provide a labeled-axis reading guide. Approved 35-minute schedule amendment supersedes the 60-minute lab.",
+          "provenance":{"mode":"development_example","nativeId":"development-only:requirements","nativeRevision":"synthetic-v1","retrievedAt":"2026-10-19T06:59:00-04:00","contentSha256":"3c348876a536f4590f862ac942c90e5ecec0638552c955947d9e448befa934d1","adapter":"development-only-no-provider"},
+          "publicUrl":null
+        }],
+        "facts":[
+          {"factId":"fact-curriculum","kind":"curriculum","authority":"approved_curriculum","approvalId":"approval-curriculum","evidenceRefs":["ref-requirements"],"effectiveFrom":"2026-10-01T00:00:00-04:00","skillIds":["skill-graph","skill-evidence"],"objective":"Interpret graphs and select evidence for scientific claims."},
+          {"factId":"fact-schedule","kind":"schedule","authority":"approved_schedule","approvalId":"approval-schedule","evidenceRefs":["ref-requirements"],"effectiveFrom":"2026-10-18T00:00:00-04:00","lessonDate":"2026-10-19","minutes":35,"supersedesFactIds":["fact-schedule-old"]},
+          {"factId":"fact-schedule-old","kind":"schedule","authority":"approved_schedule","approvalId":"approval-schedule-old","evidenceRefs":["ref-requirements"],"effectiveFrom":"2026-10-01T00:00:00-04:00","effectiveTo":"2026-10-18T00:00:00-04:00","lessonDate":"2026-10-19","minutes":60,"supersedesFactIds":[]},
+          {"factId":"fact-support","kind":"support","authority":"mandatory_support","approvalId":"approval-support","evidenceRefs":["ref-requirements"],"effectiveFrom":"2026-10-01T00:00:00-04:00","studentIds":["student-01"],"requirement":"Provide a labeled-axis reading guide."}
+        ]
+      },
+      {
+        "schemaVersion":"instruct.provider.v1","classId":"class-science-7a","assessmentId":"assessment-20261016","source":"fabric","requested":true,"state":"succeeded","reason":"Development-only normalized example; no provider was called.","durationMs":0,
+        "evidence":[{
+          "refId":"ref-assessment","classId":"class-science-7a","source":"fabric","documentId":"doc-assessment",
+          "title":"Development-only synthetic assessment coverage","locator":"synthetic-content:1",
+          "excerpt":"Synthetic roster contains student-01 through student-24. Student-01: graph incorrect, evidence incorrect; student-02: graph correct, evidence incorrect; student-03: graph correct, evidence correct; student-04: graph submission missing. No other required-skill observations are available.",
+          "provenance":{"mode":"development_example","nativeId":"development-only:assessment","nativeRevision":"synthetic-v1","retrievedAt":"2026-10-19T06:59:00-04:00","contentSha256":"736927561db4c66c4cb23f32dd5f70ef07423e3f04c2c9d5e86ee0367dbf5a62","adapter":"development-only-no-provider"},
+          "publicUrl":null
+        }],
+        "facts":[
+          {"factId":"fact-roster","kind":"roster","authority":"assessment_record","evidenceRefs":["ref-assessment"],"effectiveFrom":"2026-10-16T00:00:00-04:00","studentIds":["student-01","student-02","student-03","student-04","student-05","student-06","student-07","student-08","student-09","student-10","student-11","student-12","student-13","student-14","student-15","student-16","student-17","student-18","student-19","student-20","student-21","student-22","student-23","student-24"]},
+          {"factId":"fact-01-graph","kind":"observation","authority":"assessment_record","evidenceRefs":["ref-assessment"],"effectiveFrom":"2026-10-16T12:00:00-04:00","assessmentId":"assessment-20261016","studentId":"student-01","skillId":"skill-graph","itemId":"item-graph","attemptId":"attempt-01","outcome":"incorrect"},
+          {"factId":"fact-01-evidence","kind":"observation","authority":"assessment_record","evidenceRefs":["ref-assessment"],"effectiveFrom":"2026-10-16T12:00:00-04:00","assessmentId":"assessment-20261016","studentId":"student-01","skillId":"skill-evidence","itemId":"item-evidence","attemptId":"attempt-01","outcome":"incorrect"},
+          {"factId":"fact-02-graph","kind":"observation","authority":"assessment_record","evidenceRefs":["ref-assessment"],"effectiveFrom":"2026-10-16T12:00:00-04:00","assessmentId":"assessment-20261016","studentId":"student-02","skillId":"skill-graph","itemId":"item-graph","attemptId":"attempt-02","outcome":"correct"},
+          {"factId":"fact-02-evidence","kind":"observation","authority":"assessment_record","evidenceRefs":["ref-assessment"],"effectiveFrom":"2026-10-16T12:00:00-04:00","assessmentId":"assessment-20261016","studentId":"student-02","skillId":"skill-evidence","itemId":"item-evidence","attemptId":"attempt-02","outcome":"incorrect"},
+          {"factId":"fact-03-graph","kind":"observation","authority":"assessment_record","evidenceRefs":["ref-assessment"],"effectiveFrom":"2026-10-16T12:00:00-04:00","assessmentId":"assessment-20261016","studentId":"student-03","skillId":"skill-graph","itemId":"item-graph","attemptId":"attempt-03","outcome":"correct"},
+          {"factId":"fact-03-evidence","kind":"observation","authority":"assessment_record","evidenceRefs":["ref-assessment"],"effectiveFrom":"2026-10-16T12:00:00-04:00","assessmentId":"assessment-20261016","studentId":"student-03","skillId":"skill-evidence","itemId":"item-evidence","attemptId":"attempt-03","outcome":"correct"},
+          {"factId":"fact-04-missing","kind":"observation","authority":"assessment_record","evidenceRefs":["ref-assessment"],"effectiveFrom":"2026-10-16T12:00:00-04:00","assessmentId":"assessment-20261016","studentId":"student-04","skillId":"skill-graph","itemId":"item-graph","attemptId":null,"outcome":"missing_submission"}
+        ]
+      },
+      {"schemaVersion":"instruct.provider.v1","classId":"class-science-7a","assessmentId":"assessment-20261016","source":"work","requested":false,"state":"not_requested","reason":null,"durationMs":0,"evidence":[],"facts":[]},
+      {"schemaVersion":"instruct.provider.v1","classId":"class-science-7a","assessmentId":"assessment-20261016","source":"web","requested":false,"state":"not_requested","reason":null,"durationMs":0,"evidence":[],"facts":[]}
+    ],
+    "groups": [
+      {
+        "groupId":"group-graph","need":"graph_interpretation","provisional":true,"studentIds":["student-01"],
+        "overlappingNeeds":{"student-01":["evidence_selection"]},
+        "rationale":{"claimId":"claim-graph-rationale","text":"Student-01 has incorrect graph and evidence-selection observations. Graph interpretation takes primary priority because it is prerequisite; retain evidence selection as an overlapping need.","basis":"supported_fact","factIds":["fact-01-graph","fact-01-evidence"],"evidenceRefs":["ref-assessment"]},
+        "scaffold":{"claimId":"claim-graph-scaffold","text":"Provide the required labeled-axis reading guide; model reading one point before selecting evidence.","basis":"instructional_proposal","factIds":["fact-support"],"evidenceRefs":["ref-requirements"]}
+      },
+      {
+        "groupId":"group-evidence","need":"evidence_selection","provisional":true,"studentIds":["student-02"],"overlappingNeeds":{},
+        "rationale":{"claimId":"claim-evidence-rationale","text":"Student-02 has a correct graph observation and an incorrect evidence-selection observation, so prioritize connecting a graph value to a claim.","basis":"supported_fact","factIds":["fact-02-graph","fact-02-evidence"],"evidenceRefs":["ref-assessment"]},
+        "scaffold":{"claimId":"claim-evidence-scaffold","text":"Use a claim-value-reason sentence frame.","basis":"instructional_proposal","factIds":[],"evidenceRefs":[]}
+      },
+      {
+        "groupId":"group-extension","need":"extension","provisional":true,"studentIds":["student-03"],"overlappingNeeds":{},
+        "rationale":{"claimId":"claim-extension-rationale","text":"Student-03 has correct observations for both required skills; offer a provisional extension, not a final ability label.","basis":"supported_fact","factIds":["fact-03-graph","fact-03-evidence"],"evidenceRefs":["ref-assessment"]},
+        "scaffold":{"claimId":"claim-extension-scaffold","text":"Compare competing claims and explain which has stronger graph evidence.","basis":"instructional_proposal","factIds":[],"evidenceRefs":[]}
+      },
+      {
+        "groupId":"group-insufficient","need":"insufficient_evidence","provisional":true,
+        "studentIds":["student-04","student-05","student-06","student-07","student-08","student-09","student-10","student-11","student-12","student-13","student-14","student-15","student-16","student-17","student-18","student-19","student-20","student-21","student-22","student-23","student-24"],
+        "overlappingNeeds":{},
+        "rationale":{"claimId":"claim-insufficient-rationale","text":"The authorized roster and coverage show 21 learners without sufficient required-skill evidence. Student-04 has a missing graph submission; student-05 through student-24 have no observations. This is insufficient evidence, not low mastery.","basis":"supported_fact","factIds":["fact-roster","fact-04-missing"],"evidenceRefs":["ref-assessment"]},
+        "scaffold":{"claimId":"claim-insufficient-scaffold","text":"Begin with a low-stakes graph/evidence check and regroup after teacher observation; do not assign an ability label.","basis":"instructional_proposal","factIds":[],"evidenceRefs":[]}
+      }
+    ],
+    "package": {
+      "objective":{"claimId":"claim-objective","text":"Interpret graphs and select evidence for scientific claims.","basis":"supported_fact","factIds":["fact-curriculum"],"evidenceRefs":["ref-requirements"]},
+      "segments":[
+        {"segmentId":"segment-launch","minutes":5,"groupIds":["group-graph","group-evidence","group-extension","group-insufficient"],"instruction":{"claimId":"claim-launch","text":"Propose a 5-minute shared graph-reading check within the approved 35-minute limit.","basis":"instructional_proposal","factIds":["fact-schedule"],"evidenceRefs":["ref-requirements"]}},
+        {"segmentId":"segment-model","minutes":8,"groupIds":["group-graph","group-evidence","group-extension","group-insufficient"],"instruction":{"claimId":"claim-model","text":"Model how to read labeled axes and connect a value to a scientific claim. Provide student-01 the required labeled-axis guide.","basis":"instructional_proposal","factIds":["fact-support"],"evidenceRefs":["ref-requirements"]}},
+        {"segmentId":"segment-practice","minutes":17,"groupIds":["group-graph","group-evidence","group-extension","group-insufficient"],"instruction":{"claimId":"claim-practice","text":"Use provisional group scaffolds for teacher-created graph practice. Check the insufficient-evidence group first, then regroup from observed work.","basis":"instructional_proposal","factIds":[],"evidenceRefs":[]}},
+        {"segmentId":"segment-exit","minutes":5,"groupIds":["group-graph","group-evidence","group-extension","group-insufficient"],"instruction":{"claimId":"claim-exit","text":"Individually answer the exit ticket, then compare reasoning with the teacher key; do not automatically grade.","basis":"instructional_proposal","factIds":[],"evidenceRefs":[]}}
+      ],
+      "exitTicket":{
+        "prompt":{"claimId":"claim-ticket","text":"A graph has time in minutes on the x-axis and temperature in degrees C on the y-axis: (0,20), (2,24), (4,28). Which claim is supported: temperature increased or temperature stayed constant? Cite two values and explain.","basis":"instructional_proposal","factIds":[],"evidenceRefs":[]},
+        "answerKey":{"claimId":"claim-key","text":"Temperature increased: it rose from 20 degrees C at 0 minutes to 28 degrees C at 4 minutes. These values support increase and contradict constant temperature.","basis":"instructional_proposal","factIds":[],"evidenceRefs":[]},
+        "skillIds":["skill-graph","skill-evidence"]
+      },
+      "implementedSupportFactIds":["fact-support"],
+      "appliedScheduleFactId":"fact-schedule",
+      "resourceFactIds":[]
+    },
+    "issues":[{
+      "issueId":"issue-insufficient","code":"insufficient_evidence","affected":"student_evidence","blocking":false,
+      "message":"21 provisional placements reflect missing or insufficient evidence, not incorrect responses.",
+      "factIds":["fact-roster","fact-04-missing"],"evidenceRefs":["ref-assessment"],
+      "resolution":"Teacher conducts the opening check before deciding whether to regroup."
+    }],
+    "unresolvedQuestions":["What will the opening check show for the 21 learners with insufficient evidence?"]
+  }
+}

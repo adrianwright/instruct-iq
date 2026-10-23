@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "classId": "class-science-7a",
+  "scenarioDate": "2026-10-16",
+  "marker": "Instruct IQ synthetic demo",
+  "discussion": "Instruct IQ synthetic demo — fictional science-team discussion sample, not authored by actual colleagues. Fictional role A suggests starting graph reading with axis labels, units, scale and two precisely located points. Fictional role B suggests asking which observation supports a claim and which is irrelevant. These are team suggestions, not formal curriculum requirements. Scenario date: 2026-10-16; native creation time is the actual service timestamp. No student data.",
+  "recap": "Instruct IQ synthetic demo — written fictional meeting-recap sample, not a transcript and not evidence that a meeting occurred. Scenario date: 2026-10-16. Sample decision: use a five-minute graph-reading check before asking for evidence-backed explanations. Unresolved question: should a second graph use a changed scale or a competing variable? Follow-up proposed for the next planning agenda. No real colleague attended or approved this; team suggestions are not formal curriculum policy.",
+  "resource": "Instruct IQ synthetic demo — fictional colleague-shared resource sample, posted by the demo operator, not an impersonated colleague. Resource: graph-reading/evidence-selection card. Synthetic plant growth data: day 0 = 2 cm; day 2 = 3 cm; day 4 = 5 cm; day 6 = 6 cm. Label axes day and height (cm), plot the four points and ask: which two measurements best support the claim that height increased between day 2 and day 6? Do not infer causation or extrapolate beyond day 6. This sample resource has no real sharing or colleague authorship claim.",
+  "agenda": "Instruct IQ synthetic demo — private upcoming planning placeholder, no attendees or invitations. Proposed agenda: review axis/scale checks; compare evidence-selection prompts; revisit the unresolved changed-scale versus competing-variable question; choose a follow-up only after teacher review. This event does not claim a completed meeting or curriculum approval. No student data."
+}

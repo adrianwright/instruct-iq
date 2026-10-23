@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "instruct.provider.v1",
+  "classId": "class-science-7a",
+  "assessmentId": "assessment-20261016",
+  "source": "fabric",
+  "requested": true,
+  "state": "succeeded",
+  "reason": "Development-only normalized example; no provider was called.",
+  "durationMs": 0,
+  "evidence": [{
+    "refId": "ref-assessment",
+    "classId": "class-science-7a",
+    "source": "fabric",
+    "documentId": "doc-assessment",
+    "title": "Development-only synthetic assessment coverage",
+    "locator": "synthetic-content:1",
+    "excerpt": "Synthetic roster contains student-01 through student-24. Student-01: graph incorrect, evidence incorrect; student-02: graph correct, evidence incorrect; student-03: graph correct, evidence correct; student-04: graph submission missing. No other required-skill observations are available.",
+    "provenance": {
+      "mode": "development_example",
+      "nativeId": "development-only:assessment",
+      "nativeRevision": "synthetic-v1",
+      "retrievedAt": "2026-10-19T06:59:00-04:00",
+      "contentSha256": "736927561db4c66c4cb23f32dd5f70ef07423e3f04c2c9d5e86ee0367dbf5a62",
+      "adapter": "development-only-no-provider"
+    },
+    "publicUrl": null
+  }],
+  "facts": [
+    {"factId":"fact-roster","kind":"roster","authority":"assessment_record","evidenceRefs":["ref-assessment"],"effectiveFrom":"2026-10-16T00:00:00-04:00","studentIds":["student-01","student-02","student-03","student-04","student-05","student-06","student-07","student-08","student-09","student-10","student-11","student-12","student-13","student-14","student-15","student-16","student-17","student-18","student-19","student-20","student-21","student-22","student-23","student-24"]},
+    {"factId":"fact-01-graph","kind":"observation","authority":"assessment_record","evidenceRefs":["ref-assessment"],"effectiveFrom":"2026-10-16T12:00:00-04:00","assessmentId":"assessment-20261016","studentId":"student-01","skillId":"skill-graph","itemId":"item-graph","attemptId":"attempt-01","outcome":"incorrect"},
+    {"factId":"fact-01-evidence","kind":"observation","authority":"assessment_record","evidenceRefs":["ref-assessment"],"effectiveFrom":"2026-10-16T12:00:00-04:00","assessmentId":"assessment-20261016","studentId":"student-01","skillId":"skill-evidence","itemId":"item-evidence","attemptId":"attempt-01","outcome":"incorrect"},
+    {"factId":"fact-02-graph","kind":"observation","authority":"assessment_record","evidenceRefs":["ref-assessment"],"effectiveFrom":"2026-10-16T12:00:00-04:00","assessmentId":"assessment-20261016","studentId":"student-02","skillId":"skill-graph","itemId":"item-graph","attemptId":"attempt-02","outcome":"correct"},
+    {"factId":"fact-02-evidence","kind":"observation","authority":"assessment_record","evidenceRefs":["ref-assessment"],"effectiveFrom":"2026-10-16T12:00:00-04:00","assessmentId":"assessment-20261016","studentId":"student-02","skillId":"skill-evidence","itemId":"item-evidence","attemptId":"attempt-02","outcome":"incorrect"},
+    {"factId":"fact-03-graph","kind":"observation","authority":"assessment_record","evidenceRefs":["ref-assessment"],"effectiveFrom":"2026-10-16T12:00:00-04:00","assessmentId":"assessment-20261016","studentId":"student-03","skillId":"skill-graph","itemId":"item-graph","attemptId":"attempt-03","outcome":"correct"},
+    {"factId":"fact-03-evidence","kind":"observation","authority":"assessment_record","evidenceRefs":["ref-assessment"],"effectiveFrom":"2026-10-16T12:00:00-04:00","assessmentId":"assessment-20261016","studentId":"student-03","skillId":"skill-evidence","itemId":"item-evidence","attemptId":"attempt-03","outcome":"correct"},
+    {"factId":"fact-04-missing","kind":"observation","authority":"assessment_record","evidenceRefs":["ref-assessment"],"effectiveFrom":"2026-10-16T12:00:00-04:00","assessmentId":"assessment-20261016","studentId":"student-04","skillId":"skill-graph","itemId":"item-graph","attemptId":null,"outcome":"missing_submission"}
+  ]
+}

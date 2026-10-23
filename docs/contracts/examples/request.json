@@ -1,0 +1,15 @@
+{
+  "schemaVersion": "instruct.request.v1",
+  "classId": "class-science-7a",
+  "assessmentId": "assessment-20261016",
+  "scenario": {
+    "assessmentDate": "2026-10-16",
+    "lessonDate": "2026-10-19",
+    "timezone": "America/New_York",
+    "planningCutoff": "2026-10-19T07:00:00-04:00",
+    "lessonMinutes": 35,
+    "studentCount": 24
+  },
+  "includeWork": false,
+  "includeWeb": false
+}

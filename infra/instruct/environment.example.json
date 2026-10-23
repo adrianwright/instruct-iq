@@ -1,0 +1,11 @@
+{
+  "appSubscriptionId": "<explicit-new-resource-subscription-uuid>",
+  "tenantId": "<explicit-tenant-uuid>",
+  "deploymentId": "<generate-once-with-New-Guid-and-retain>",
+  "capacityResourceId": "/subscriptions/<capacity-subscription-uuid>/resourceGroups/<existing-capacity-rg>/providers/Microsoft.Fabric/capacities/<approved-capacity-arm-name>",
+  "fabricCapacityId": "<approved-capacity-fabric-uuid-not-arm-id>",
+  "workspaceName": "instruct-iq",
+  "lakehouseName": "instruct_iq",
+  "workspaceId": "",
+  "lakehouseId": ""
+}

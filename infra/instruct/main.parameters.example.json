@@ -1,0 +1,23 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "location": { "value": "<approved-rg-metadata-region>" },
+    "aiLocation": { "value": "<approved-foundry-model-region>" },
+    "searchLocation": { "value": "<approved-agentic-retrieval-region>" },
+    "hostingLocation": { "value": "<approved-linux-app-service-region>" },
+    "environmentLocation": { "value": "<approved-container-apps-environment-region>" },
+    "staticWebLocation": { "value": "<supported-static-web-app-region>" },
+    "apiContainerImage": { "value": "" },
+    "fabricCapacityResourceId": { "value": "<approved-capacity-arm-id>" },
+    "deployModels": { "value": false },
+    "chatModelName": { "value": "<supported-agentic-planning-model>" },
+    "chatModelVersion": { "value": "<exact-approved-version>" },
+    "chatModelSku": { "value": "<approved-sku>" },
+    "chatModelCapacity": { "value": 1 },
+    "embeddingModelName": { "value": "text-embedding-3-large" },
+    "embeddingModelVersion": { "value": "1" },
+    "embeddingModelSku": { "value": "<approved-sku>" },
+    "embeddingModelCapacity": { "value": 1 }
+  }
+}

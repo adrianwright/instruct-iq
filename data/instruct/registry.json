@@ -1,0 +1,3137 @@
+{
+  "class": {
+    "assessmentId": "assessment-20261016",
+    "classId": "class-science-7a",
+    "grade": 7,
+    "subject": "science"
+  },
+  "district": {
+    "districtId": "district-synthetic",
+    "title": "Synthetic Learning District"
+  },
+  "items": {
+    "item-axis": {
+      "answer": "horizontal",
+      "prompt": "Which axis shows elapsed time?",
+      "skillId": "skill-graph"
+    },
+    "item-evidence": {
+      "answer": "2 at minute 0 and 6 at minute 2",
+      "prompt": "Cite two values supporting an increasing trend.",
+      "skillId": "skill-evidence"
+    },
+    "item-trend": {
+      "answer": "increases by 2 each minute",
+      "prompt": "Values at minutes 0, 1, 2 are 2, 4, 6. Describe the trend.",
+      "skillId": "skill-graph"
+    }
+  },
+  "membership": {
+    "classId": "class-science-7a",
+    "membershipRevision": "membership-v1",
+    "studentIds": [
+      "student-01",
+      "student-02",
+      "student-03",
+      "student-04",
+      "student-05",
+      "student-06",
+      "student-07",
+      "student-08",
+      "student-09",
+      "student-10",
+      "student-11",
+      "student-12",
+      "student-13",
+      "student-14",
+      "student-15",
+      "student-16",
+      "student-17",
+      "student-18",
+      "student-19",
+      "student-20",
+      "student-21",
+      "student-22",
+      "student-23",
+      "student-24"
+    ],
+    "teacherSubject": "synthetic-teacher"
+  },
+  "responses": [
+    {
+      "attemptId": "attempt-01-item-axis",
+      "itemId": "item-axis",
+      "outcome": "incorrect",
+      "response": "unsupported response",
+      "studentId": "student-01"
+    },
+    {
+      "attemptId": "attempt-01-item-trend",
+      "itemId": "item-trend",
+      "outcome": "incorrect",
+      "response": "unsupported response",
+      "studentId": "student-01"
+    },
+    {
+      "attemptId": "attempt-01-item-evidence",
+      "itemId": "item-evidence",
+      "outcome": "incorrect",
+      "response": "unsupported response",
+      "studentId": "student-01"
+    },
+    {
+      "attemptId": "attempt-02-item-axis",
+      "itemId": "item-axis",
+      "outcome": "correct",
+      "response": "horizontal",
+      "studentId": "student-02"
+    },
+    {
+      "attemptId": "attempt-02-item-trend",
+      "itemId": "item-trend",
+      "outcome": "correct",
+      "response": "increases by 2 each minute",
+      "studentId": "student-02"
+    },
+    {
+      "attemptId": "attempt-02-item-evidence",
+      "itemId": "item-evidence",
+      "outcome": "incorrect",
+      "response": "unsupported response",
+      "studentId": "student-02"
+    },
+    {
+      "attemptId": "attempt-03-item-axis",
+      "itemId": "item-axis",
+      "outcome": "correct",
+      "response": "horizontal",
+      "studentId": "student-03"
+    },
+    {
+      "attemptId": "attempt-03-item-trend",
+      "itemId": "item-trend",
+      "outcome": "correct",
+      "response": "increases by 2 each minute",
+      "studentId": "student-03"
+    },
+    {
+      "attemptId": "attempt-03-item-evidence",
+      "itemId": "item-evidence",
+      "outcome": "correct",
+      "response": "2 at minute 0 and 6 at minute 2",
+      "studentId": "student-03"
+    },
+    {
+      "attemptId": null,
+      "itemId": "item-axis",
+      "outcome": "missing_submission",
+      "response": null,
+      "studentId": "student-04"
+    },
+    {
+      "attemptId": "attempt-04-item-trend",
+      "itemId": "item-trend",
+      "outcome": "correct",
+      "response": "increases by 2 each minute",
+      "studentId": "student-04"
+    },
+    {
+      "attemptId": "attempt-04-item-evidence",
+      "itemId": "item-evidence",
+      "outcome": "correct",
+      "response": "2 at minute 0 and 6 at minute 2",
+      "studentId": "student-04"
+    },
+    {
+      "attemptId": "attempt-05-item-axis",
+      "itemId": "item-axis",
+      "outcome": "correct",
+      "response": "horizontal",
+      "studentId": "student-05"
+    },
+    {
+      "attemptId": "attempt-05-item-trend",
+      "itemId": "item-trend",
+      "outcome": "correct",
+      "response": "increases by 2 each minute",
+      "studentId": "student-05"
+    },
+    {
+      "attemptId": "attempt-06-item-axis",
+      "itemId": "item-axis",
+      "outcome": "incorrect",
+      "response": "unsupported response",
+      "studentId": "student-06"
+    },
+    {
+      "attemptId": "attempt-06-item-trend",
+      "itemId": "item-trend",
+      "outcome": "incorrect",
+      "response": "unsupported response",
+      "studentId": "student-06"
+    },
+    {
+      "attemptId": "attempt-06-item-evidence",
+      "itemId": "item-evidence",
+      "outcome": "correct",
+      "response": "2 at minute 0 and 6 at minute 2",
+      "studentId": "student-06"
+    },
+    {
+      "attemptId": "attempt-07-item-axis",
+      "itemId": "item-axis",
+      "outcome": "incorrect",
+      "response": "unsupported response",
+      "studentId": "student-07"
+    },
+    {
+      "attemptId": "attempt-07-item-trend",
+      "itemId": "item-trend",
+      "outcome": "incorrect",
+      "response": "unsupported response",
+      "studentId": "student-07"
+    },
+    {
+      "attemptId": "attempt-07-item-evidence",
+      "itemId": "item-evidence",
+      "outcome": "incorrect",
+      "response": "unsupported response",
+      "studentId": "student-07"
+    },
+    {
+      "attemptId": "attempt-08-item-axis",
+      "itemId": "item-axis",
+      "outcome": "correct",
+      "response": "horizontal",
+      "studentId": "student-08"
+    },
+    {
+      "attemptId": "attempt-08-item-trend",
+      "itemId": "item-trend",
+      "outcome": "correct",
+      "response": "increases by 2 each minute",
+      "studentId": "student-08"
+    },
+    {
+      "attemptId": "attempt-08-item-evidence",
+      "itemId": "item-evidence",
+      "outcome": "incorrect",
+      "response": "unsupported response",
+      "studentId": "student-08"
+    },
+    {
+      "attemptId": "attempt-09-item-axis",
+      "itemId": "item-axis",
+      "outcome": "correct",
+      "response": "horizontal",
+      "studentId": "student-09"
+    },
+    {
+      "attemptId": "attempt-09-item-trend",
+      "itemId": "item-trend",
+      "outcome": "correct",
+      "response": "increases by 2 each minute",
+      "studentId": "student-09"
+    },
+    {
+      "attemptId": "attempt-09-item-evidence",
+      "itemId": "item-evidence",
+      "outcome": "correct",
+      "response": "2 at minute 0 and 6 at minute 2",
+      "studentId": "student-09"
+    },
+    {
+      "attemptId": null,
+      "itemId": "item-axis",
+      "outcome": "missing_submission",
+      "response": null,
+      "studentId": "student-10"
+    },
+    {
+      "attemptId": "attempt-10-item-trend",
+      "itemId": "item-trend",
+      "outcome": "correct",
+      "response": "increases by 2 each minute",
+      "studentId": "student-10"
+    },
+    {
+      "attemptId": "attempt-10-item-evidence",
+      "itemId": "item-evidence",
+      "outcome": "correct",
+      "response": "2 at minute 0 and 6 at minute 2",
+      "studentId": "student-10"
+    },
+    {
+      "attemptId": "attempt-11-item-axis",
+      "itemId": "item-axis",
+      "outcome": "correct",
+      "response": "horizontal",
+      "studentId": "student-11"
+    },
+    {
+      "attemptId": "attempt-11-item-trend",
+      "itemId": "item-trend",
+      "outcome": "correct",
+      "response": "increases by 2 each minute",
+      "studentId": "student-11"
+    },
+    {
+      "attemptId": "attempt-12-item-axis",
+      "itemId": "item-axis",
+      "outcome": "incorrect",
+      "response": "unsupported response",
+      "studentId": "student-12"
+    },
+    {
+      "attemptId": "attempt-12-item-trend",
+      "itemId": "item-trend",
+      "outcome": "incorrect",
+      "response": "unsupported response",
+      "studentId": "student-12"
+    },
+    {
+      "attemptId": "attempt-12-item-evidence",
+      "itemId": "item-evidence",
+      "outcome": "correct",
+      "response": "2 at minute 0 and 6 at minute 2",
+      "studentId": "student-12"
+    },
+    {
+      "attemptId": "attempt-13-item-axis",
+      "itemId": "item-axis",
+      "outcome": "incorrect",
+      "response": "unsupported response",
+      "studentId": "student-13"
+    },
+    {
+      "attemptId": "attempt-13-item-trend",
+      "itemId": "item-trend",
+      "outcome": "incorrect",
+      "response": "unsupported response",
+      "studentId": "student-13"
+    },
+    {
+      "attemptId": "attempt-13-item-evidence",
+      "itemId": "item-evidence",
+      "outcome": "incorrect",
+      "response": "unsupported response",
+      "studentId": "student-13"
+    },
+    {
+      "attemptId": "attempt-14-item-axis",
+      "itemId": "item-axis",
+      "outcome": "correct",
+      "response": "horizontal",
+      "studentId": "student-14"
+    },
+    {
+      "attemptId": "attempt-14-item-trend",
+      "itemId": "item-trend",
+      "outcome": "correct",
+      "response": "increases by 2 each minute",
+      "studentId": "student-14"
+    },
+    {
+      "attemptId": "attempt-14-item-evidence",
+      "itemId": "item-evidence",
+      "outcome": "incorrect",
+      "response": "unsupported response",
+      "studentId": "student-14"
+    },
+    {
+      "attemptId": "attempt-15-item-axis",
+      "itemId": "item-axis",
+      "outcome": "correct",
+      "response": "horizontal",
+      "studentId": "student-15"
+    },
+    {
+      "attemptId": "attempt-15-item-trend",
+      "itemId": "item-trend",
+      "outcome": "correct",
+      "response": "increases by 2 each minute",
+      "studentId": "student-15"
+    },
+    {
+      "attemptId": "attempt-15-item-evidence",
+      "itemId": "item-evidence",
+      "outcome": "correct",
+      "response": "2 at minute 0 and 6 at minute 2",
+      "studentId": "student-15"
+    },
+    {
+      "attemptId": null,
+      "itemId": "item-axis",
+      "outcome": "missing_submission",
+      "response": null,
+      "studentId": "student-16"
+    },
+    {
+      "attemptId": "attempt-16-item-trend",
+      "itemId": "item-trend",
+      "outcome": "correct",
+      "response": "increases by 2 each minute",
+      "studentId": "student-16"
+    },
+    {
+      "attemptId": "attempt-16-item-evidence",
+      "itemId": "item-evidence",
+      "outcome": "correct",
+      "response": "2 at minute 0 and 6 at minute 2",
+      "studentId": "student-16"
+    },
+    {
+      "attemptId": "attempt-17-item-axis",
+      "itemId": "item-axis",
+      "outcome": "correct",
+      "response": "horizontal",
+      "studentId": "student-17"
+    },
+    {
+      "attemptId": "attempt-17-item-trend",
+      "itemId": "item-trend",
+      "outcome": "correct",
+      "response": "increases by 2 each minute",
+      "studentId": "student-17"
+    },
+    {
+      "attemptId": "attempt-18-item-axis",
+      "itemId": "item-axis",
+      "outcome": "incorrect",
+      "response": "unsupported response",
+      "studentId": "student-18"
+    },
+    {
+      "attemptId": "attempt-18-item-trend",
+      "itemId": "item-trend",
+      "outcome": "incorrect",
+      "response": "unsupported response",
+      "studentId": "student-18"
+    },
+    {
+      "attemptId": "attempt-18-item-evidence",
+      "itemId": "item-evidence",
+      "outcome": "correct",
+      "response": "2 at minute 0 and 6 at minute 2",
+      "studentId": "student-18"
+    },
+    {
+      "attemptId": "attempt-19-item-axis",
+      "itemId": "item-axis",
+      "outcome": "incorrect",
+      "response": "unsupported response",
+      "studentId": "student-19"
+    },
+    {
+      "attemptId": "attempt-19-item-trend",
+      "itemId": "item-trend",
+      "outcome": "incorrect",
+      "response": "unsupported response",
+      "studentId": "student-19"
+    },
+    {
+      "attemptId": "attempt-19-item-evidence",
+      "itemId": "item-evidence",
+      "outcome": "incorrect",
+      "response": "unsupported response",
+      "studentId": "student-19"
+    },
+    {
+      "attemptId": "attempt-20-item-axis",
+      "itemId": "item-axis",
+      "outcome": "correct",
+      "response": "horizontal",
+      "studentId": "student-20"
+    },
+    {
+      "attemptId": "attempt-20-item-trend",
+      "itemId": "item-trend",
+      "outcome": "correct",
+      "response": "increases by 2 each minute",
+      "studentId": "student-20"
+    },
+    {
+      "attemptId": "attempt-20-item-evidence",
+      "itemId": "item-evidence",
+      "outcome": "incorrect",
+      "response": "unsupported response",
+      "studentId": "student-20"
+    },
+    {
+      "attemptId": "attempt-21-item-axis",
+      "itemId": "item-axis",
+      "outcome": "correct",
+      "response": "horizontal",
+      "studentId": "student-21"
+    },
+    {
+      "attemptId": "attempt-21-item-trend",
+      "itemId": "item-trend",
+      "outcome": "correct",
+      "response": "increases by 2 each minute",
+      "studentId": "student-21"
+    },
+    {
+      "attemptId": "attempt-21-item-evidence",
+      "itemId": "item-evidence",
+      "outcome": "correct",
+      "response": "2 at minute 0 and 6 at minute 2",
+      "studentId": "student-21"
+    },
+    {
+      "attemptId": null,
+      "itemId": "item-axis",
+      "outcome": "missing_submission",
+      "response": null,
+      "studentId": "student-22"
+    },
+    {
+      "attemptId": "attempt-22-item-trend",
+      "itemId": "item-trend",
+      "outcome": "correct",
+      "response": "increases by 2 each minute",
+      "studentId": "student-22"
+    },
+    {
+      "attemptId": "attempt-22-item-evidence",
+      "itemId": "item-evidence",
+      "outcome": "correct",
+      "response": "2 at minute 0 and 6 at minute 2",
+      "studentId": "student-22"
+    },
+    {
+      "attemptId": "attempt-23-item-axis",
+      "itemId": "item-axis",
+      "outcome": "correct",
+      "response": "horizontal",
+      "studentId": "student-23"
+    },
+    {
+      "attemptId": "attempt-23-item-trend",
+      "itemId": "item-trend",
+      "outcome": "correct",
+      "response": "increases by 2 each minute",
+      "studentId": "student-23"
+    },
+    {
+      "attemptId": "attempt-24-item-axis",
+      "itemId": "item-axis",
+      "outcome": "incorrect",
+      "response": "unsupported response",
+      "studentId": "student-24"
+    },
+    {
+      "attemptId": "attempt-24-item-trend",
+      "itemId": "item-trend",
+      "outcome": "incorrect",
+      "response": "unsupported response",
+      "studentId": "student-24"
+    },
+    {
+      "attemptId": "attempt-24-item-evidence",
+      "itemId": "item-evidence",
+      "outcome": "correct",
+      "response": "2 at minute 0 and 6 at minute 2",
+      "studentId": "student-24"
+    }
+  ],
+  "scenario": {
+    "assessmentDate": "2026-10-16",
+    "lessonDate": "2026-10-19",
+    "lessonMinutes": 35,
+    "planningCutoff": "2026-10-19T07:00:00-04:00",
+    "studentCount": 24,
+    "timezone": "America/New_York"
+  },
+  "schemaVersion": "instruct.seed.v1",
+  "sources": [
+    {
+      "assessmentId": "assessment-20261016",
+      "classId": "class-science-7a",
+      "durationMs": 0,
+      "evidence": [
+        {
+          "classId": "class-science-7a",
+          "documentId": "doc-curriculum",
+          "excerpt": "{\n  \"approvalId\": \"approval-curriculum-v1\",\n  \"authority\": \"approved_curriculum\",\n  \"effectiveFrom\": \"2026-10-16T00:00:00-04:00\",\n  \"evidenceRefs\": [\n    \"ref-curriculum\"\n  ],\n  \"factId\": \"curriculum\",\n  \"kind\": \"curriculum\",\n  \"objective\": \"Interpret graph axes and trends, then select numerical evidence supporting a claim.\",\n  \"skillIds\": [\n    \"skill-graph\",\n    \"skill-evidence\"\n  ]\n}",
+          "locator": "record:curriculum",
+          "provenance": {
+            "adapter": "synthetic-ingestion-v1",
+            "contentSha256": "455e46239bcb40e98aae2388b13fb79a187e9651c93b9a554c851e46366cdf75",
+            "mode": "test_double",
+            "nativeId": "curriculum",
+            "nativeRevision": "synthetic-v1",
+            "retrievedAt": "2026-10-19T06:59:00-04:00"
+          },
+          "publicUrl": null,
+          "refId": "ref-curriculum",
+          "source": "foundry",
+          "title": "Synthetic curriculum record curriculum"
+        },
+        {
+          "classId": "class-science-7a",
+          "documentId": "doc-support-access",
+          "excerpt": "{\n  \"approvalId\": \"approval-support-v1\",\n  \"authority\": \"mandatory_support\",\n  \"effectiveFrom\": \"2026-10-16T00:00:00-04:00\",\n  \"evidenceRefs\": [\n    \"ref-support-access\"\n  ],\n  \"factId\": \"support-access\",\n  \"kind\": \"support\",\n  \"requirement\": \"Provide enlarged high-contrast graphs and a read-aloud of directions in every group.\",\n  \"studentIds\": [\n    \"student-01\",\n    \"student-04\",\n    \"student-09\"\n  ]\n}",
+          "locator": "record:support-access",
+          "provenance": {
+            "adapter": "synthetic-ingestion-v1",
+            "contentSha256": "951ec4da57e59437793681234c8d9c0159c9cd13347822e821050cafa8f6c850",
+            "mode": "test_double",
+            "nativeId": "support-access",
+            "nativeRevision": "synthetic-v1",
+            "retrievedAt": "2026-10-19T06:59:00-04:00"
+          },
+          "publicUrl": null,
+          "refId": "ref-support-access",
+          "source": "foundry",
+          "title": "Synthetic support record support-access"
+        },
+        {
+          "classId": "class-science-7a",
+          "documentId": "doc-support-language",
+          "excerpt": "{\n  \"approvalId\": \"approval-language-v1\",\n  \"authority\": \"mandatory_support\",\n  \"effectiveFrom\": \"2026-10-16T00:00:00-04:00\",\n  \"evidenceRefs\": [\n    \"ref-support-language\"\n  ],\n  \"factId\": \"support-language\",\n  \"kind\": \"support\",\n  \"requirement\": \"Provide a vocabulary preview and evidence sentence frames without reducing the objective.\",\n  \"studentIds\": [\n    \"student-02\",\n    \"student-07\"\n  ]\n}",
+          "locator": "record:support-language",
+          "provenance": {
+            "adapter": "synthetic-ingestion-v1",
+            "contentSha256": "eab2a876b698fd327c50cfc1e1db851dbcd7f13d2a3d24b11390549bd61d8987",
+            "mode": "test_double",
+            "nativeId": "support-language",
+            "nativeRevision": "synthetic-v1",
+            "retrievedAt": "2026-10-19T06:59:00-04:00"
+          },
+          "publicUrl": null,
+          "refId": "ref-support-language",
+          "source": "foundry",
+          "title": "Synthetic support record support-language"
+        },
+        {
+          "classId": "class-science-7a",
+          "documentId": "doc-schedule-original",
+          "excerpt": "{\n  \"approvalId\": \"approval-schedule-v1\",\n  \"authority\": \"approved_schedule\",\n  \"effectiveFrom\": \"2026-10-01T00:00:00-04:00\",\n  \"effectiveTo\": \"2026-10-16T15:00:00-04:00\",\n  \"evidenceRefs\": [\n    \"ref-schedule-original\"\n  ],\n  \"factId\": \"schedule-original\",\n  \"kind\": \"schedule\",\n  \"lessonDate\": \"2026-10-19\",\n  \"minutes\": 60,\n  \"supersedesFactIds\": []\n}",
+          "locator": "record:schedule-original",
+          "provenance": {
+            "adapter": "synthetic-ingestion-v1",
+            "contentSha256": "15bc9e5ad2b28a46db55359a3c91f816d2debb903a3803bea44997c1d1e660fb",
+            "mode": "test_double",
+            "nativeId": "schedule-original",
+            "nativeRevision": "synthetic-v1",
+            "retrievedAt": "2026-10-19T06:59:00-04:00"
+          },
+          "publicUrl": null,
+          "refId": "ref-schedule-original",
+          "source": "foundry",
+          "title": "Synthetic schedule record schedule-original"
+        },
+        {
+          "classId": "class-science-7a",
+          "documentId": "doc-schedule-amended",
+          "excerpt": "{\n  \"approvalId\": \"approval-schedule-v2\",\n  \"authority\": \"approved_schedule\",\n  \"effectiveFrom\": \"2026-10-16T15:00:00-04:00\",\n  \"evidenceRefs\": [\n    \"ref-schedule-amended\"\n  ],\n  \"factId\": \"schedule-amended\",\n  \"kind\": \"schedule\",\n  \"lessonDate\": \"2026-10-19\",\n  \"minutes\": 35,\n  \"supersedesFactIds\": [\n    \"schedule-original\"\n  ]\n}",
+          "locator": "record:schedule-amended",
+          "provenance": {
+            "adapter": "synthetic-ingestion-v1",
+            "contentSha256": "2f545abcbcf33c2bc7194e8d4af087874a4ce4cfddd319e02cfd1bf4234f4648",
+            "mode": "test_double",
+            "nativeId": "schedule-amended",
+            "nativeRevision": "synthetic-v1",
+            "retrievedAt": "2026-10-19T06:59:00-04:00"
+          },
+          "publicUrl": null,
+          "refId": "ref-schedule-amended",
+          "source": "foundry",
+          "title": "Synthetic schedule record schedule-amended"
+        },
+        {
+          "classId": "class-science-7a",
+          "documentId": "doc-resource-graphs",
+          "excerpt": "{\n  \"approvalId\": \"approval-resource-v1\",\n  \"authority\": \"approved_resource\",\n  \"effectiveFrom\": \"2026-10-16T00:00:00-04:00\",\n  \"evidenceRefs\": [\n    \"ref-resource-graphs\"\n  ],\n  \"factId\": \"resource-graphs\",\n  \"kind\": \"resource\",\n  \"skillIds\": [\n    \"skill-graph\",\n    \"skill-evidence\"\n  ],\n  \"usage\": \"Use the approved three-point graph: minutes 0, 1, 2; readings 2, 4, 6.\"\n}",
+          "locator": "record:resource-graphs",
+          "provenance": {
+            "adapter": "synthetic-ingestion-v1",
+            "contentSha256": "950909356dc50027c9938841e28a280a35be7b1ef7b5677fdeeb100a57b56a73",
+            "mode": "test_double",
+            "nativeId": "resource-graphs",
+            "nativeRevision": "synthetic-v1",
+            "retrievedAt": "2026-10-19T06:59:00-04:00"
+          },
+          "publicUrl": null,
+          "refId": "ref-resource-graphs",
+          "source": "foundry",
+          "title": "Synthetic resource record resource-graphs"
+        }
+      ],
+      "facts": [
+        {
+          "approvalId": "approval-curriculum-v1",
+          "authority": "approved_curriculum",
+          "effectiveFrom": "2026-10-16T00:00:00-04:00",
+          "evidenceRefs": [
+            "ref-curriculum"
+          ],
+          "factId": "curriculum",
+          "kind": "curriculum",
+          "objective": "Interpret graph axes and trends, then select numerical evidence supporting a claim.",
+          "skillIds": [
+            "skill-graph",
+            "skill-evidence"
+          ]
+        },
+        {
+          "approvalId": "approval-support-v1",
+          "authority": "mandatory_support",
+          "effectiveFrom": "2026-10-16T00:00:00-04:00",
+          "evidenceRefs": [
+            "ref-support-access"
+          ],
+          "factId": "support-access",
+          "kind": "support",
+          "requirement": "Provide enlarged high-contrast graphs and a read-aloud of directions in every group.",
+          "studentIds": [
+            "student-01",
+            "student-04",
+            "student-09"
+          ]
+        },
+        {
+          "approvalId": "approval-language-v1",
+          "authority": "mandatory_support",
+          "effectiveFrom": "2026-10-16T00:00:00-04:00",
+          "evidenceRefs": [
+            "ref-support-language"
+          ],
+          "factId": "support-language",
+          "kind": "support",
+          "requirement": "Provide a vocabulary preview and evidence sentence frames without reducing the objective.",
+          "studentIds": [
+            "student-02",
+            "student-07"
+          ]
+        },
+        {
+          "approvalId": "approval-schedule-v1",
+          "authority": "approved_schedule",
+          "effectiveFrom": "2026-10-01T00:00:00-04:00",
+          "effectiveTo": "2026-10-16T15:00:00-04:00",
+          "evidenceRefs": [
+            "ref-schedule-original"
+          ],
+          "factId": "schedule-original",
+          "kind": "schedule",
+          "lessonDate": "2026-10-19",
+          "minutes": 60,
+          "supersedesFactIds": []
+        },
+        {
+          "approvalId": "approval-schedule-v2",
+          "authority": "approved_schedule",
+          "effectiveFrom": "2026-10-16T15:00:00-04:00",
+          "evidenceRefs": [
+            "ref-schedule-amended"
+          ],
+          "factId": "schedule-amended",
+          "kind": "schedule",
+          "lessonDate": "2026-10-19",
+          "minutes": 35,
+          "supersedesFactIds": [
+            "schedule-original"
+          ]
+        },
+        {
+          "approvalId": "approval-resource-v1",
+          "authority": "approved_resource",
+          "effectiveFrom": "2026-10-16T00:00:00-04:00",
+          "evidenceRefs": [
+            "ref-resource-graphs"
+          ],
+          "factId": "resource-graphs",
+          "kind": "resource",
+          "skillIds": [
+            "skill-graph",
+            "skill-evidence"
+          ],
+          "usage": "Use the approved three-point graph: minutes 0, 1, 2; readings 2, 4, 6."
+        }
+      ],
+      "reason": "Synthetic ingestion asset; no provider called.",
+      "requested": true,
+      "schemaVersion": "instruct.provider.v1",
+      "source": "foundry",
+      "state": "succeeded"
+    },
+    {
+      "assessmentId": "assessment-20261016",
+      "classId": "class-science-7a",
+      "durationMs": 0,
+      "evidence": [
+        {
+          "classId": "class-science-7a",
+          "documentId": "doc-roster",
+          "excerpt": "{\n  \"authority\": \"assessment_record\",\n  \"effectiveFrom\": \"2026-10-16T00:00:00-04:00\",\n  \"evidenceRefs\": [\n    \"ref-roster\"\n  ],\n  \"factId\": \"roster\",\n  \"kind\": \"roster\",\n  \"studentIds\": [\n    \"student-01\",\n    \"student-02\",\n    \"student-03\",\n    \"student-04\",\n    \"student-05\",\n    \"student-06\",\n    \"student-07\",\n    \"student-08\",\n    \"student-09\",\n    \"student-10\",\n    \"student-11\",\n    \"student-12\",\n    \"student-13\",\n    \"student-14\",\n    \"student-15\",\n    \"student-16\",\n    \"student-17\",\n    \"student-18\",\n    \"student-19\",\n    \"student-20\",\n    \"student-21\",\n    \"student-22\",\n    \"student-23\",\n    \"student-24\"\n  ]\n}",
+          "locator": "record:roster",
+          "provenance": {
+            "adapter": "synthetic-ingestion-v1",
+            "contentSha256": "274799061149ee6e324088b211dcd9358ba90ef95e00ae65e9b39f894655a775",
+            "mode": "test_double",
+            "nativeId": "roster",
+            "nativeRevision": "synthetic-v1",
+            "retrievedAt": "2026-10-19T06:59:00-04:00"
+          },
+          "publicUrl": null,
+          "refId": "ref-roster",
+          "source": "fabric",
+          "title": "Synthetic roster record roster"
+        },
+        {
+          "classId": "class-science-7a",
+          "documentId": "doc-assessment-coverage",
+          "excerpt": "{\n  \"assessmentId\": \"assessment-20261016\",\n  \"attemptSelection\": \"latest_effective_then_attempt_id\",\n  \"authority\": \"assessment_record\",\n  \"effectiveFrom\": \"2026-10-16T00:00:00-04:00\",\n  \"evidenceRefs\": [\n    \"ref-assessment-coverage\"\n  ],\n  \"evidenceSkillId\": \"skill-evidence\",\n  \"factId\": \"assessment-coverage\",\n  \"graphSkillId\": \"skill-graph\",\n  \"itemSkills\": {\n    \"item-axis\": \"skill-graph\",\n    \"item-evidence\": \"skill-evidence\",\n    \"item-trend\": \"skill-graph\"\n  },\n  \"kind\": \"assessment\"\n}",
+          "locator": "record:assessment-coverage",
+          "provenance": {
+            "adapter": "synthetic-ingestion-v1",
+            "contentSha256": "538f0d02e9de9db299be8b8cf1580191736bd169e7bdc600756de0d8703d9918",
+            "mode": "test_double",
+            "nativeId": "assessment-coverage",
+            "nativeRevision": "synthetic-v1",
+            "retrievedAt": "2026-10-19T06:59:00-04:00"
+          },
+          "publicUrl": null,
+          "refId": "ref-assessment-coverage",
+          "source": "fabric",
+          "title": "Synthetic assessment record assessment-coverage"
+        },
+        {
+          "classId": "class-science-7a",
+          "documentId": "doc-observation-01-item-axis",
+          "excerpt": "{\n  \"assessmentId\": \"assessment-20261016\",\n  \"attemptId\": \"attempt-01-item-axis\",\n  \"authority\": \"assessment_record\",\n  \"effectiveFrom\": \"2026-10-16T13:00:00-04:00\",\n  \"evidenceRefs\": [\n    \"ref-observation-01-item-axis\"\n  ],\n  \"factId\": \"observation-01-item-axis\",\n  \"itemId\": \"item-axis\",\n  \"kind\": \"observation\",\n  \"outcome\": \"incorrect\",\n  \"skillId\": \"skill-graph\",\n  \"studentId\": \"student-01\"\n}",
+          "locator": "record:observation-01-item-axis",
+          "provenance": {
+            "adapter": "synthetic-ingestion-v1",
+            "contentSha256": "d2efd548f3164702e0eba231a5c3b1de626720041325bf1164a8a5903cf2ed54",
+            "mode": "test_double",
+            "nativeId": "observation-01-item-axis",
+            "nativeRevision": "synthetic-v1",
+            "retrievedAt": "2026-10-19T06:59:00-04:00"
+          },
+          "publicUrl": null,
+          "refId": "ref-observation-01-item-axis",
+          "source": "fabric",
+          "title": "Synthetic observation record observation-01-item-axis"
+        },
+        {
+          "classId": "class-science-7a",
+          "documentId": "doc-observation-01-item-trend",
+          "excerpt": "{\n  \"assessmentId\": \"assessment-20261016\",\n  \"attemptId\": \"attempt-01-item-trend\",\n  \"authority\": \"assessment_record\",\n  \"effectiveFrom\": \"2026-10-16T13:00:00-04:00\",\n  \"evidenceRefs\": [\n    \"ref-observation-01-item-trend\"\n  ],\n  \"factId\": \"observation-01-item-trend\",\n  \"itemId\": \"item-trend\",\n  \"kind\": \"observation\",\n  \"outcome\": \"incorrect\",\n  \"skillId\": \"skill-graph\",\n  \"studentId\": \"student-01\"\n}",
+          "locator": "record:observation-01-item-trend",
+          "provenance": {
+            "adapter": "synthetic-ingestion-v1",
+            "contentSha256": "d905a98aefa8aed0cbf6a054daa8aa5b76a45de7e257cbc543ac4d930f53f757",
+            "mode": "test_double",
+            "nativeId": "observation-01-item-trend",
+            "nativeRevision": "synthetic-v1",
+            "retrievedAt": "2026-10-19T06:59:00-04:00"
+          },
+          "publicUrl": null,
+          "refId": "ref-observation-01-item-trend",
+          "source": "fabric",
+          "title": "Synthetic observation record observation-01-item-trend"
+        },
+        {
+          "classId": "class-science-7a",
+          "documentId": "doc-observation-01-item-evidence",
+          "excerpt": "{\n  \"assessmentId\": \"assessment-20261016\",\n  \"attemptId\": \"attempt-01-item-evidence\",\n  \"authority\": \"assessment_record\",\n  \"effectiveFrom\": \"2026-10-16T13:00:00-04:00\",\n  \"evidenceRefs\": [\n    \"ref-observation-01-item-evidence\"\n  ],\n  \"factId\": \"observation-01-item-evidence\",\n  \"itemId\": \"item-evidence\",\n  \"kind\": \"observation\",\n  \"outcome\": \"incorrect\",\n  \"skillId\": \"skill-evidence\",\n  \"studentId\": \"student-01\"\n}",
+          "locator": "record:observation-01-item-evidence",
+          "provenance": {
+            "adapter": "synthetic-ingestion-v1",
+            "contentSha256": "06e5f23677cc15653dca1ada089844f1912df936c3602144d3c2413e955a2381",
+            "mode": "test_double",
+            "nativeId": "observation-01-item-evidence",
+            "nativeRevision": "synthetic-v1",
+            "retrievedAt": "2026-10-19T06:59:00-04:00"
+          },
+          "publicUrl": null,
+          "refId": "ref-observation-01-item-evidence",
+          "source": "fabric",
+          "title": "Synthetic observation record observation-01-item-evidence"
+        },
+        {
+          "classId": "class-science-7a",
+          "documentId": "doc-observation-02-item-axis",
+          "excerpt": "{\n  \"assessmentId\": \"assessment-20261016\",\n  \"attemptId\": \"attempt-02-item-axis\",\n  \"authority\": \"assessment_record\",\n  \"effectiveFrom\": \"2026-10-16T13:00:00-04:00\",\n  \"evidenceRefs\": [\n    \"ref-observation-02-item-axis\"\n  ],\n  \"factId\": \"observation-02-item-axis\",\n  \"itemId\": \"item-axis\",\n  \"kind\": \"observation\",\n  \"outcome\": \"correct\",\n  \"skillId\": \"skill-graph\",\n  \"studentId\": \"student-02\"\n}",
+          "locator": "record:observation-02-item-axis",
+          "provenance": {
+            "adapter": "synthetic-ingestion-v1",
+            "contentSha256": "6aaf45b002d632505621f0c4225de1d56215d9ee03b47cdb210574c443bf803a",
+            "mode": "test_double",
+            "nativeId": "observation-02-item-axis",
+            "nativeRevision": "synthetic-v1",
+            "retrievedAt": "2026-10-19T06:59:00-04:00"
+          },
+          "publicUrl": null,
+          "refId": "ref-observation-02-item-axis",
+          "source": "fabric",
+          "title": "Synthetic observation record observation-02-item-axis"
+        },
+        {
+          "classId": "class-science-7a",
+          "documentId": "doc-observation-02-item-trend",
+          "excerpt": "{\n  \"assessmentId\": \"assessment-20261016\",\n  \"attemptId\": \"attempt-02-item-trend\",\n  \"authority\": \"assessment_record\",\n  \"effectiveFrom\": \"2026-10-16T13:00:00-04:00\",\n  \"evidenceRefs\": [\n    \"ref-observation-02-item-trend\"\n  ],\n  \"factId\": \"observation-02-item-trend\",\n  \"itemId\": \"item-trend\",\n  \"kind\": \"observation\",\n  \"outcome\": \"correct\",\n  \"skillId\": \"skill-graph\",\n  \"studentId\": \"student-02\"\n}",
+          "locator": "record:observation-02-item-trend",
+          "provenance": {
+            "adapter": "synthetic-ingestion-v1",
+            "contentSha256": "9c37bf6466025f4b0c19cf95660357b13486207f6e04b39e3a9162dd079a9f4a",
+            "mode": "test_double",
+            "nativeId": "observation-02-item-trend",
+            "nativeRevision": "synthetic-v1",
+            "retrievedAt": "2026-10-19T06:59:00-04:00"
+          },
+          "publicUrl": null,
+          "refId": "ref-observation-02-item-trend",
+          "source": "fabric",
+          "title": "Synthetic observation record observation-02-item-trend"
+        },
+        {
+          "classId": "class-science-7a",
+          "documentId": "doc-observation-02-item-evidence",
+          "excerpt": "{\n  \"assessmentId\": \"assessment-20261016\",\n  \"attemptId\": \"attempt-02-item-evidence\",\n  \"authority\": \"assessment_record\",\n  \"effectiveFrom\": \"2026-10-16T13:00:00-04:00\",\n  \"evidenceRefs\": [\n    \"ref-observation-02-item-evidence\"\n  ],\n  \"factId\": \"observation-02-item-evidence\",\n  \"itemId\": \"item-evidence\",\n  \"kind\": \"observation\",\n  \"outcome\": \"incorrect\",\n  \"skillId\": \"skill-evidence\",\n  \"studentId\": \"student-02\"\n}",
+          "locator": "record:observation-02-item-evidence",
+          "provenance": {
+            "adapter": "synthetic-ingestion-v1",
+            "contentSha256": "f2b3d0b325b87958e45ed1524bbefe4187428582d8b06a0cbdee4716f0765ef5",
+            "mode": "test_double",
+            "nativeId": "observation-02-item-evidence",
+            "nativeRevision": "synthetic-v1",
+            "retrievedAt": "2026-10-19T06:59:00-04:00"
+          },
+          "publicUrl": null,
+          "refId": "ref-observation-02-item-evidence",
+          "source": "fabric",
+          "title": "Synthetic observation record observation-02-item-evidence"
+        },
+        {
+          "classId": "class-science-7a",
+          "documentId": "doc-observation-03-item-axis",
+          "excerpt": "{\n  \"assessmentId\": \"assessment-20261016\",\n  \"attemptId\": \"attempt-03-item-axis\",\n  \"authority\": \"assessment_record\",\n  \"effectiveFrom\": \"2026-10-16T13:00:00-04:00\",\n  \"evidenceRefs\": [\n    \"ref-observation-03-item-axis\"\n  ],\n  \"factId\": \"observation-03-item-axis\",\n  \"itemId\": \"item-axis\",\n  \"kind\": \"observation\",\n  \"outcome\": \"correct\",\n  \"skillId\": \"skill-graph\",\n  \"studentId\": \"student-03\"\n}",
+          "locator": "record:observation-03-item-axis",
+          "provenance": {
+            "adapter": "synthetic-ingestion-v1",
+            "contentSha256": "90580af7b0abf41760d26d7087f4da14f20105b48b1ffb17effd2ba61be0285f",
+            "mode": "test_double",
+            "nativeId": "observation-03-item-axis",
+            "nativeRevision": "synthetic-v1",
+            "retrievedAt": "2026-10-19T06:59:00-04:00"
+          },
+          "publicUrl": null,
+          "refId": "ref-observation-03-item-axis",
+          "source": "fabric",
+          "title": "Synthetic observation record observation-03-item-axis"
+        },
+        {
+          "classId": "class-science-7a",
+          "documentId": "doc-observation-03-item-trend",
+          "excerpt": "{\n  \"assessmentId\": \"assessment-20261016\",\n  \"attemptId\": \"attempt-03-item-trend\",\n  \"authority\": \"assessment_record\",\n  \"effectiveFrom\": \"2026-10-16T13:00:00-04:00\",\n  \"evidenceRefs\": [\n    \"ref-observation-03-item-trend\"\n  ],\n  \"factId\": \"observation-03-item-trend\",\n  \"itemId\": \"item-trend\",\n  \"kind\": \"observation\",\n  \"outcome\": \"correct\",\n  \"skillId\": \"skill-graph\",\n  \"studentId\": \"student-03\"\n}",
+          "locator": "record:observation-03-item-trend",
+          "provenance": {
+            "adapter": "synthetic-ingestion-v1",
+            "contentSha256": "955adee9e02f5a3f1f106d67f085171b52757ac17b9fa40630069e321ab8f86e",
+            "mode": "test_double",
+            "nativeId": "observation-03-item-trend",
+            "nativeRevision": "synthetic-v1",
+            "retrievedAt": "2026-10-19T06:59:00-04:00"
+          },
+          "publicUrl": null,
+          "refId": "ref-observation-03-item-trend",
+          "source": "fabric",
+          "title": "Synthetic observation record observation-03-item-trend"
+        },
+        {
+          "classId": "class-science-7a",
+          "documentId": "doc-observation-03-item-evidence",
+          "excerpt": "{\n  \"assessmentId\": \"assessment-20261016\",\n  \"attemptId\": \"attempt-03-item-evidence\",\n  \"authority\": \"assessment_record\",\n  \"effectiveFrom\": \"2026-10-16T13:00:00-04:00\",\n  \"evidenceRefs\": [\n    \"ref-observation-03-item-evidence\"\n  ],\n  \"factId\": \"observation-03-item-evidence\",\n  \"itemId\": \"item-evidence\",\n  \"kind\": \"observation\",\n  \"outcome\": \"correct\",\n  \"skillId\": \"skill-evidence\",\n  \"studentId\": \"student-03\"\n}",
+          "locator": "record:observation-03-item-evidence",
+          "provenance": {
+            "adapter": "synthetic-ingestion-v1",
+            "contentSha256": "d900d0aae5ecd2cc1bea0d44ace97c683029f4e471250501386a0328c555b3e6",
+            "mode": "test_double",
+            "nativeId": "observation-03-item-evidence",
+            "nativeRevision": "synthetic-v1",
+            "retrievedAt": "2026-10-19T06:59:00-04:00"
+          },
+          "publicUrl": null,
+          "refId": "ref-observation-03-item-evidence",
+          "source": "fabric",
+          "title": "Synthetic observation record observation-03-item-evidence"
+        },
+        {
+          "classId": "class-science-7a",
+          "documentId": "doc-observation-04-item-axis",
+          "excerpt": "{\n  \"assessmentId\": \"assessment-20261016\",\n  \"attemptId\": null,\n  \"authority\": \"assessment_record\",\n  \"effectiveFrom\": \"2026-10-16T13:00:00-04:00\",\n  \"evidenceRefs\": [\n    \"ref-observation-04-item-axis\"\n  ],\n  \"factId\": \"observation-04-item-axis\",\n  \"itemId\": \"item-axis\",\n  \"kind\": \"observation\",\n  \"outcome\": \"missing_submission\",\n  \"skillId\": \"skill-graph\",\n  \"studentId\": \"student-04\"\n}",
+          "locator": "record:observation-04-item-axis",
+          "provenance": {
+            "adapter": "synthetic-ingestion-v1",
+            "contentSha256": "f9cd0c1167f40f2c32347c51066edd7f5081ed93159296c1f1888133bc24923b",
+            "mode": "test_double",
+            "nativeId": "observation-04-item-axis",
+            "nativeRevision": "synthetic-v1",
+            "retrievedAt": "2026-10-19T06:59:00-04:00"
+          },
+          "publicUrl": null,
+          "refId": "ref-observation-04-item-axis",
+          "source": "fabric",
+          "title": "Synthetic observation record observation-04-item-axis"
+        },
+        {
+          "classId": "class-science-7a",
+          "documentId": "doc-observation-04-item-trend",
+          "excerpt": "{\n  \"assessmentId\": \"assessment-20261016\",\n  \"attemptId\": \"attempt-04-item-trend\",\n  \"authority\": \"assessment_record\",\n  \"effectiveFrom\": \"2026-10-16T13:00:00-04:00\",\n  \"evidenceRefs\": [\n    \"ref-observation-04-item-trend\"\n  ],\n  \"factId\": \"observation-04-item-trend\",\n  \"itemId\": \"item-trend\",\n  \"kind\": \"observation\",\n  \"outcome\": \"correct\",\n  \"skillId\": \"skill-graph\",\n  \"studentId\": \"student-04\"\n}",
+          "locator": "record:observation-04-item-trend",
+          "provenance": {
+            "adapter": "synthetic-ingestion-v1",
+            "contentSha256": "08c0e8303e0e82e47767063b751b7e1d7145931f5f90e8ba06ba402eab301ec6",
+            "mode": "test_double",
+            "nativeId": "observation-04-item-trend",
+            "nativeRevision": "synthetic-v1",
+            "retrievedAt": "2026-10-19T06:59:00-04:00"
+          },
+          "publicUrl": null,
+          "refId": "ref-observation-04-item-trend",
+          "source": "fabric",
+          "title": "Synthetic observation record observation-04-item-trend"
+        },
+        {
+          "classId": "class-science-7a",
+          "documentId": "doc-observation-04-item-evidence",
+          "excerpt": "{\n  \"assessmentId\": \"assessment-20261016\",\n  \"attemptId\": \"attempt-04-item-evidence\",\n  \"authority\": \"assessment_record\",\n  \"effectiveFrom\": \"2026-10-16T13:00:00-04:00\",\n  \"evidenceRefs\": [\n    \"ref-observation-04-item-evidence\"\n  ],\n  \"factId\": \"observation-04-item-evidence\",\n  \"itemId\": \"item-evidence\",\n  \"kind\": \"observation\",\n  \"outcome\": \"correct\",\n  \"skillId\": \"skill-evidence\",\n  \"studentId\": \"student-04\"\n}",
+          "locator": "record:observation-04-item-evidence",
+          "provenance": {
+            "adapter": "synthetic-ingestion-v1",
+            "contentSha256": "ae405c98f745bf0b672cc1ba6afd0a11f99e3f7b73e8c82fb255e19bf8c9602b",
+            "mode": "test_double",
+            "nativeId": "observation-04-item-evidence",
+            "nativeRevision": "synthetic-v1",
+            "retrievedAt": "2026-10-19T06:59:00-04:00"
+          },
+          "publicUrl": null,
+          "refId": "ref-observation-04-item-evidence",
+          "source": "fabric",
+          "title": "Synthetic observation record observation-04-item-evidence"
+        },
+        {
+          "classId": "class-science-7a",
+          "documentId": "doc-observation-05-item-axis",
+          "excerpt": "{\n  \"assessmentId\": \"assessment-20261016\",\n  \"attemptId\": \"attempt-05-item-axis\",\n  \"authority\": \"assessment_record\",\n  \"effectiveFrom\": \"2026-10-16T13:00:00-04:00\",\n  \"evidenceRefs\": [\n    \"ref-observation-05-item-axis\"\n  ],\n  \"factId\": \"observation-05-item-axis\",\n  \"itemId\": \"item-axis\",\n  \"kind\": \"observation\",\n  \"outcome\": \"correct\",\n  \"skillId\": \"skill-graph\",\n  \"studentId\": \"student-05\"\n}",
+          "locator": "record:observation-05-item-axis",
+          "provenance": {
+            "adapter": "synthetic-ingestion-v1",
+            "contentSha256": "7c45eb4b2c07fc04f4bd6d2a78d00c6209316b1595cd739e6cf2152b425b5bd8",
+            "mode": "test_double",
+            "nativeId": "observation-05-item-axis",
+            "nativeRevision": "synthetic-v1",
+            "retrievedAt": "2026-10-19T06:59:00-04:00"
+          },
+          "publicUrl": null,
+          "refId": "ref-observation-05-item-axis",
+          "source": "fabric",
+          "title": "Synthetic observation record observation-05-item-axis"
+        },
+        {
+          "classId": "class-science-7a",
+          "documentId": "doc-observation-05-item-trend",
+          "excerpt": "{\n  \"assessmentId\": \"assessment-20261016\",\n  \"attemptId\": \"attempt-05-item-trend\",\n  \"authority\": \"assessment_record\",\n  \"effectiveFrom\": \"2026-10-16T13:00:00-04:00\",\n  \"evidenceRefs\": [\n    \"ref-observation-05-item-trend\"\n  ],\n  \"factId\": \"observation-05-item-trend\",\n  \"itemId\": \"item-trend\",\n  \"kind\": \"observation\",\n  \"outcome\": \"correct\",\n  \"skillId\": \"skill-graph\",\n  \"studentId\": \"student-05\"\n}",
+          "locator": "record:observation-05-item-trend",
+          "provenance": {
+            "adapter": "synthetic-ingestion-v1",
+            "contentSha256": "20b9e59e25c779554aa64310629a0b4e51286a60fbd2c9cd65c46d6e2eab7532",
+            "mode": "test_double",
+            "nativeId": "observation-05-item-trend",
+            "nativeRevision": "synthetic-v1",
+            "retrievedAt": "2026-10-19T06:59:00-04:00"
+          },
+          "publicUrl": null,
+          "refId": "ref-observation-05-item-trend",
+          "source": "fabric",
+          "title": "Synthetic observation record observation-05-item-trend"
+        },
+        {
+          "classId": "class-science-7a",
+          "documentId": "doc-observation-06-item-axis",
+          "excerpt": "{\n  \"assessmentId\": \"assessment-20261016\",\n  \"attemptId\": \"attempt-06-item-axis\",\n  \"authority\": \"assessment_record\",\n  \"effectiveFrom\": \"2026-10-16T13:00:00-04:00\",\n  \"evidenceRefs\": [\n    \"ref-observation-06-item-axis\"\n  ],\n  \"factId\": \"observation-06-item-axis\",\n  \"itemId\": \"item-axis\",\n  \"kind\": \"observation\",\n  \"outcome\": \"incorrect\",\n  \"skillId\": \"skill-graph\",\n  \"studentId\": \"student-06\"\n}",
+          "locator": "record:observation-06-item-axis",
+          "provenance": {
+            "adapter": "synthetic-ingestion-v1",
+            "contentSha256": "a1fe1f917b5f891259dfa3a97d1ebdc4fbd43f82b63ad9b196120c5a6c020d3d",
+            "mode": "test_double",
+            "nativeId": "observation-06-item-axis",
+            "nativeRevision": "synthetic-v1",
+            "retrievedAt": "2026-10-19T06:59:00-04:00"
+          },
+          "publicUrl": null,
+          "refId": "ref-observation-06-item-axis",
+          "source": "fabric",
+          "title": "Synthetic observation record observation-06-item-axis"
+        },
+        {
+          "classId": "class-science-7a",
+          "documentId": "doc-observation-06-item-trend",
+          "excerpt": "{\n  \"assessmentId\": \"assessment-20261016\",\n  \"attemptId\": \"attempt-06-item-trend\",\n  \"authority\": \"assessment_record\",\n  \"effectiveFrom\": \"2026-10-16T13:00:00-04:00\",\n  \"evidenceRefs\": [\n    \"ref-observation-06-item-trend\"\n  ],\n  \"factId\": \"observation-06-item-trend\",\n  \"itemId\": \"item-trend\",\n  \"kind\": \"observation\",\n  \"outcome\": \"incorrect\",\n  \"skillId\": \"skill-graph\",\n  \"studentId\": \"student-06\"\n}",
+          "locator": "record:observation-06-item-trend",
+          "provenance": {
+            "adapter": "synthetic-ingestion-v1",
+            "contentSha256": "e7f3a5932552d112b96707a16b2fef20683142505309b70d969fda5acf2f3a59",
+            "mode": "test_double",
+            "nativeId": "observation-06-item-trend",
+            "nativeRevision": "synthetic-v1",
+            "retrievedAt": "2026-10-19T06:59:00-04:00"
+          },
+          "publicUrl": null,
+          "refId": "ref-observation-06-item-trend",
+          "source": "fabric",
+          "title": "Synthetic observation record observation-06-item-trend"
+        },
+        {
+          "classId": "class-science-7a",
+          "documentId": "doc-observation-06-item-evidence",
+          "excerpt": "{\n  \"assessmentId\": \"assessment-20261016\",\n  \"attemptId\": \"attempt-06-item-evidence\",\n  \"authority\": \"assessment_record\",\n  \"effectiveFrom\": \"2026-10-16T13:00:00-04:00\",\n  \"evidenceRefs\": [\n    \"ref-observation-06-item-evidence\"\n  ],\n  \"factId\": \"observation-06-item-evidence\",\n  \"itemId\": \"item-evidence\",\n  \"kind\": \"observation\",\n  \"outcome\": \"correct\",\n  \"skillId\": \"skill-evidence\",\n  \"studentId\": \"student-06\"\n}",
+          "locator": "record:observation-06-item-evidence",
+          "provenance": {
+            "adapter": "synthetic-ingestion-v1",
+            "contentSha256": "fbbb44c5a924d3c013db50edcf9cc279798dbe90addb7ad9972a53259a55f978",
+            "mode": "test_double",
+            "nativeId": "observation-06-item-evidence",
+            "nativeRevision": "synthetic-v1",
+            "retrievedAt": "2026-10-19T06:59:00-04:00"
+          },
+          "publicUrl": null,
+          "refId": "ref-observation-06-item-evidence",
+          "source": "fabric",
+          "title": "Synthetic observation record observation-06-item-evidence"
+        },
+        {
+          "classId": "class-science-7a",
+          "documentId": "doc-observation-07-item-axis",
+          "excerpt": "{\n  \"assessmentId\": \"assessment-20261016\",\n  \"attemptId\": \"attempt-07-item-axis\",\n  \"authority\": \"assessment_record\",\n  \"effectiveFrom\": \"2026-10-16T13:00:00-04:00\",\n  \"evidenceRefs\": [\n    \"ref-observation-07-item-axis\"\n  ],\n  \"factId\": \"observation-07-item-axis\",\n  \"itemId\": \"item-axis\",\n  \"kind\": \"observation\",\n  \"outcome\": \"incorrect\",\n  \"skillId\": \"skill-graph\",\n  \"studentId\": \"student-07\"\n}",
+          "locator": "record:observation-07-item-axis",
+          "provenance": {
+            "adapter": "synthetic-ingestion-v1",
+            "contentSha256": "4fd816c802e943aa347576f28f2825c9e26fd442ce03c84605db3ba6c097bf8a",
+            "mode": "test_double",
+            "nativeId": "observation-07-item-axis",
+            "nativeRevision": "synthetic-v1",
+            "retrievedAt": "2026-10-19T06:59:00-04:00"
+          },
+          "publicUrl": null,
+          "refId": "ref-observation-07-item-axis",
+          "source": "fabric",
+          "title": "Synthetic observation record observation-07-item-axis"
+        },
+        {
+          "classId": "class-science-7a",
+          "documentId": "doc-observation-07-item-trend",
+          "excerpt": "{\n  \"assessmentId\": \"assessment-20261016\",\n  \"attemptId\": \"attempt-07-item-trend\",\n  \"authority\": \"assessment_record\",\n  \"effectiveFrom\": \"2026-10-16T13:00:00-04:00\",\n  \"evidenceRefs\": [\n    \"ref-observation-07-item-trend\"\n  ],\n  \"factId\": \"observation-07-item-trend\",\n  \"itemId\": \"item-trend\",\n  \"kind\": \"observation\",\n  \"outcome\": \"incorrect\",\n  \"skillId\": \"skill-graph\",\n  \"studentId\": \"student-07\"\n}",
+          "locator": "record:observation-07-item-trend",
+          "provenance": {
+            "adapter": "synthetic-ingestion-v1",
+            "contentSha256": "ddb129758d0c3678001ec7bba051de830ba39611fd15fa38f9d397f3497d050c",
+            "mode": "test_double",
+            "nativeId": "observation-07-item-trend",
+            "nativeRevision": "synthetic-v1",
+            "retrievedAt": "2026-10-19T06:59:00-04:00"
+          },
+          "publicUrl": null,
+          "refId": "ref-observation-07-item-trend",
+          "source": "fabric",
+          "title": "Synthetic observation record observation-07-item-trend"
+        },
+        {
+          "classId": "class-science-7a",
+          "documentId": "doc-observation-07-item-evidence",
+          "excerpt": "{\n  \"assessmentId\": \"assessment-20261016\",\n  \"attemptId\": \"attempt-07-item-evidence\",\n  \"authority\": \"assessment_record\",\n  \"effectiveFrom\": \"2026-10-16T13:00:00-04:00\",\n  \"evidenceRefs\": [\n    \"ref-observation-07-item-evidence\"\n  ],\n  \"factId\": \"observation-07-item-evidence\",\n  \"itemId\": \"item-evidence\",\n  \"kind\": \"observation\",\n  \"outcome\": \"incorrect\",\n  \"skillId\": \"skill-evidence\",\n  \"studentId\": \"student-07\"\n}",
+          "locator": "record:observation-07-item-evidence",
+          "provenance": {
+            "adapter": "synthetic-ingestion-v1",
+            "contentSha256": "a36e562cff76d2fdf395917d55d645bed6dba4aed4a02874ca708538ab0fb9a3",
+            "mode": "test_double",
+            "nativeId": "observation-07-item-evidence",
+            "nativeRevision": "synthetic-v1",
+            "retrievedAt": "2026-10-19T06:59:00-04:00"
+          },
+          "publicUrl": null,
+          "refId": "ref-observation-07-item-evidence",
+          "source": "fabric",
+          "title": "Synthetic observation record observation-07-item-evidence"
+        },
+        {
+          "classId": "class-science-7a",
+          "documentId": "doc-observation-08-item-axis",
+          "excerpt": "{\n  \"assessmentId\": \"assessment-20261016\",\n  \"attemptId\": \"attempt-08-item-axis\",\n  \"authority\": \"assessment_record\",\n  \"effectiveFrom\": \"2026-10-16T13:00:00-04:00\",\n  \"evidenceRefs\": [\n    \"ref-observation-08-item-axis\"\n  ],\n  \"factId\": \"observation-08-item-axis\",\n  \"itemId\": \"item-axis\",\n  \"kind\": \"observation\",\n  \"outcome\": \"correct\",\n  \"skillId\": \"skill-graph\",\n  \"studentId\": \"student-08\"\n}",
+          "locator": "record:observation-08-item-axis",
+          "provenance": {
+            "adapter": "synthetic-ingestion-v1",
+            "contentSha256": "0c9c5ff18daca578ad35b009ee5a481ddb4c02c6ab9748a3f6ce1f4e62fd0610",
+            "mode": "test_double",
+            "nativeId": "observation-08-item-axis",
+            "nativeRevision": "synthetic-v1",
+            "retrievedAt": "2026-10-19T06:59:00-04:00"
+          },
+          "publicUrl": null,
+          "refId": "ref-observation-08-item-axis",
+          "source": "fabric",
+          "title": "Synthetic observation record observation-08-item-axis"
+        },
+        {
+          "classId": "class-science-7a",
+          "documentId": "doc-observation-08-item-trend",
+          "excerpt": "{\n  \"assessmentId\": \"assessment-20261016\",\n  \"attemptId\": \"attempt-08-item-trend\",\n  \"authority\": \"assessment_record\",\n  \"effectiveFrom\": \"2026-10-16T13:00:00-04:00\",\n  \"evidenceRefs\": [\n    \"ref-observation-08-item-trend\"\n  ],\n  \"factId\": \"observation-08-item-trend\",\n  \"itemId\": \"item-trend\",\n  \"kind\": \"observation\",\n  \"outcome\": \"correct\",\n  \"skillId\": \"skill-graph\",\n  \"studentId\": \"student-08\"\n}",
+          "locator": "record:observation-08-item-trend",
+          "provenance": {
+            "adapter": "synthetic-ingestion-v1",
+            "contentSha256": "cb144b70972d94b06a12e8d78f301f711440b620dddbd294a6ebd396462ce966",
+            "mode": "test_double",
+            "nativeId": "observation-08-item-trend",
+            "nativeRevision": "synthetic-v1",
+            "retrievedAt": "2026-10-19T06:59:00-04:00"
+          },
+          "publicUrl": null,
+          "refId": "ref-observation-08-item-trend",
+          "source": "fabric",
+          "title": "Synthetic observation record observation-08-item-trend"
+        },
+        {
+          "classId": "class-science-7a",
+          "documentId": "doc-observation-08-item-evidence",
+          "excerpt": "{\n  \"assessmentId\": \"assessment-20261016\",\n  \"attemptId\": \"attempt-08-item-evidence\",\n  \"authority\": \"assessment_record\",\n  \"effectiveFrom\": \"2026-10-16T13:00:00-04:00\",\n  \"evidenceRefs\": [\n    \"ref-observation-08-item-evidence\"\n  ],\n  \"factId\": \"observation-08-item-evidence\",\n  \"itemId\": \"item-evidence\",\n  \"kind\": \"observation\",\n  \"outcome\": \"incorrect\",\n  \"skillId\": \"skill-evidence\",\n  \"studentId\": \"student-08\"\n}",
+          "locator": "record:observation-08-item-evidence",
+          "provenance": {
+            "adapter": "synthetic-ingestion-v1",
+            "contentSha256": "529c0ef1c3576c336df6df7aa597891070629e02676c551552cb5fadde2c33ed",
+            "mode": "test_double",
+            "nativeId": "observation-08-item-evidence",
+            "nativeRevision": "synthetic-v1",
+            "retrievedAt": "2026-10-19T06:59:00-04:00"
+          },
+          "publicUrl": null,
+          "refId": "ref-observation-08-item-evidence",
+          "source": "fabric",
+          "title": "Synthetic observation record observation-08-item-evidence"
+        },
+        {
+          "classId": "class-science-7a",
+          "documentId": "doc-observation-09-item-axis",
+          "excerpt": "{\n  \"assessmentId\": \"assessment-20261016\",\n  \"attemptId\": \"attempt-09-item-axis\",\n  \"authority\": \"assessment_record\",\n  \"effectiveFrom\": \"2026-10-16T13:00:00-04:00\",\n  \"evidenceRefs\": [\n    \"ref-observation-09-item-axis\"\n  ],\n  \"factId\": \"observation-09-item-axis\",\n  \"itemId\": \"item-axis\",\n  \"kind\": \"observation\",\n  \"outcome\": \"correct\",\n  \"skillId\": \"skill-graph\",\n  \"studentId\": \"student-09\"\n}",
+          "locator": "record:observation-09-item-axis",
+          "provenance": {
+            "adapter": "synthetic-ingestion-v1",
+            "contentSha256": "7fa0bcbe6d6830f29dddf4150ffa39a35f53f469456d673b4735474e38e0f1db",
+            "mode": "test_double",
+            "nativeId": "observation-09-item-axis",
+            "nativeRevision": "synthetic-v1",
+            "retrievedAt": "2026-10-19T06:59:00-04:00"
+          },
+          "publicUrl": null,
+          "refId": "ref-observation-09-item-axis",
+          "source": "fabric",
+          "title": "Synthetic observation record observation-09-item-axis"
+        },
+        {
+          "classId": "class-science-7a",
+          "documentId": "doc-observation-09-item-trend",
+          "excerpt": "{\n  \"assessmentId\": \"assessment-20261016\",\n  \"attemptId\": \"attempt-09-item-trend\",\n  \"authority\": \"assessment_record\",\n  \"effectiveFrom\": \"2026-10-16T13:00:00-04:00\",\n  \"evidenceRefs\": [\n    \"ref-observation-09-item-trend\"\n  ],\n  \"factId\": \"observation-09-item-trend\",\n  \"itemId\": \"item-trend\",\n  \"kind\": \"observation\",\n  \"outcome\": \"correct\",\n  \"skillId\": \"skill-graph\",\n  \"studentId\": \"student-09\"\n}",
+          "locator": "record:observation-09-item-trend",
+          "provenance": {
+            "adapter": "synthetic-ingestion-v1",
+            "contentSha256": "c66344c748baa30a26a483ce5312815a6468346bdca00eb66b914c8f7b485391",
+            "mode": "test_double",
+            "nativeId": "observation-09-item-trend",
+            "nativeRevision": "synthetic-v1",
+            "retrievedAt": "2026-10-19T06:59:00-04:00"
+          },
+          "publicUrl": null,
+          "refId": "ref-observation-09-item-trend",
+          "source": "fabric",
+          "title": "Synthetic observation record observation-09-item-trend"
+        },
+        {
+          "classId": "class-science-7a",
+          "documentId": "doc-observation-09-item-evidence",
+          "excerpt": "{\n  \"assessmentId\": \"assessment-20261016\",\n  \"attemptId\": \"attempt-09-item-evidence\",\n  \"authority\": \"assessment_record\",\n  \"effectiveFrom\": \"2026-10-16T13:00:00-04:00\",\n  \"evidenceRefs\": [\n    \"ref-observation-09-item-evidence\"\n  ],\n  \"factId\": \"observation-09-item-evidence\",\n  \"itemId\": \"item-evidence\",\n  \"kind\": \"observation\",\n  \"outcome\": \"correct\",\n  \"skillId\": \"skill-evidence\",\n  \"studentId\": \"student-09\"\n}",
+          "locator": "record:observation-09-item-evidence",
+          "provenance": {
+            "adapter": "synthetic-ingestion-v1",
+            "contentSha256": "63e95b466d57a8162079f9d4367c3511b5fcd29ec09689955cfa5cabb9e6ff7f",
+            "mode": "test_double",
+            "nativeId": "observation-09-item-evidence",
+            "nativeRevision": "synthetic-v1",
+            "retrievedAt": "2026-10-19T06:59:00-04:00"
+          },
+          "publicUrl": null,
+          "refId": "ref-observation-09-item-evidence",
+          "source": "fabric",
+          "title": "Synthetic observation record observation-09-item-evidence"
+        },
+        {
+          "classId": "class-science-7a",
+          "documentId": "doc-observation-10-item-axis",
+          "excerpt": "{\n  \"assessmentId\": \"assessment-20261016\",\n  \"attemptId\": null,\n  \"authority\": \"assessment_record\",\n  \"effectiveFrom\": \"2026-10-16T13:00:00-04:00\",\n  \"evidenceRefs\": [\n    \"ref-observation-10-item-axis\"\n  ],\n  \"factId\": \"observation-10-item-axis\",\n  \"itemId\": \"item-axis\",\n  \"kind\": \"observation\",\n  \"outcome\": \"missing_submission\",\n  \"skillId\": \"skill-graph\",\n  \"studentId\": \"student-10\"\n}",
+          "locator": "record:observation-10-item-axis",
+          "provenance": {
+            "adapter": "synthetic-ingestion-v1",
+            "contentSha256": "9ef1e8524057b5a09ded08119a472556bfd11e6bdec56c24db34b738aba297b1",
+            "mode": "test_double",
+            "nativeId": "observation-10-item-axis",
+            "nativeRevision": "synthetic-v1",
+            "retrievedAt": "2026-10-19T06:59:00-04:00"
+          },
+          "publicUrl": null,
+          "refId": "ref-observation-10-item-axis",
+          "source": "fabric",
+          "title": "Synthetic observation record observation-10-item-axis"
+        },
+        {
+          "classId": "class-science-7a",
+          "documentId": "doc-observation-10-item-trend",
+          "excerpt": "{\n  \"assessmentId\": \"assessment-20261016\",\n  \"attemptId\": \"attempt-10-item-trend\",\n  \"authority\": \"assessment_record\",\n  \"effectiveFrom\": \"2026-10-16T13:00:00-04:00\",\n  \"evidenceRefs\": [\n    \"ref-observation-10-item-trend\"\n  ],\n  \"factId\": \"observation-10-item-trend\",\n  \"itemId\": \"item-trend\",\n  \"kind\": \"observation\",\n  \"outcome\": \"correct\",\n  \"skillId\": \"skill-graph\",\n  \"studentId\": \"student-10\"\n}",
+          "locator": "record:observation-10-item-trend",
+          "provenance": {
+            "adapter": "synthetic-ingestion-v1",
+            "contentSha256": "8a2e09e40bf44f5f446d724ca76b4f4015d889afd424b2599f7d6cb934b86918",
+            "mode": "test_double",
+            "nativeId": "observation-10-item-trend",
+            "nativeRevision": "synthetic-v1",
+            "retrievedAt": "2026-10-19T06:59:00-04:00"
+          },
+          "publicUrl": null,
+          "refId": "ref-observation-10-item-trend",
+          "source": "fabric",
+          "title": "Synthetic observation record observation-10-item-trend"
+        },
+        {
+          "classId": "class-science-7a",
+          "documentId": "doc-observation-10-item-evidence",
+          "excerpt": "{\n  \"assessmentId\": \"assessment-20261016\",\n  \"attemptId\": \"attempt-10-item-evidence\",\n  \"authority\": \"assessment_record\",\n  \"effectiveFrom\": \"2026-10-16T13:00:00-04:00\",\n  \"evidenceRefs\": [\n    \"ref-observation-10-item-evidence\"\n  ],\n  \"factId\": \"observation-10-item-evidence\",\n  \"itemId\": \"item-evidence\",\n  \"kind\": \"observation\",\n  \"outcome\": \"correct\",\n  \"skillId\": \"skill-evidence\",\n  \"studentId\": \"student-10\"\n}",
+          "locator": "record:observation-10-item-evidence",
+          "provenance": {
+            "adapter": "synthetic-ingestion-v1",
+            "contentSha256": "e1c595f62f49388963be6207124d32f208e3e217b561271a1d85c46344a580e7",
+            "mode": "test_double",
+            "nativeId": "observation-10-item-evidence",
+            "nativeRevision": "synthetic-v1",
+            "retrievedAt": "2026-10-19T06:59:00-04:00"
+          },
+          "publicUrl": null,
+          "refId": "ref-observation-10-item-evidence",
+          "source": "fabric",
+          "title": "Synthetic observation record observation-10-item-evidence"
+        },
+        {
+          "classId": "class-science-7a",
+          "documentId": "doc-observation-11-item-axis",
+          "excerpt": "{\n  \"assessmentId\": \"assessment-20261016\",\n  \"attemptId\": \"attempt-11-item-axis\",\n  \"authority\": \"assessment_record\",\n  \"effectiveFrom\": \"2026-10-16T13:00:00-04:00\",\n  \"evidenceRefs\": [\n    \"ref-observation-11-item-axis\"\n  ],\n  \"factId\": \"observation-11-item-axis\",\n  \"itemId\": \"item-axis\",\n  \"kind\": \"observation\",\n  \"outcome\": \"correct\",\n  \"skillId\": \"skill-graph\",\n  \"studentId\": \"student-11\"\n}",
+          "locator": "record:observation-11-item-axis",
+          "provenance": {
+            "adapter": "synthetic-ingestion-v1",
+            "contentSha256": "ba5f5bbf7e968df1f9e91c30db8af65832ca46eba36e900a996b9630b611220b",
+            "mode": "test_double",
+            "nativeId": "observation-11-item-axis",
+            "nativeRevision": "synthetic-v1",
+            "retrievedAt": "2026-10-19T06:59:00-04:00"
+          },
+          "publicUrl": null,
+          "refId": "ref-observation-11-item-axis",
+          "source": "fabric",
+          "title": "Synthetic observation record observation-11-item-axis"
+        },
+        {
+          "classId": "class-science-7a",
+          "documentId": "doc-observation-11-item-trend",
+          "excerpt": "{\n  \"assessmentId\": \"assessment-20261016\",\n  \"attemptId\": \"attempt-11-item-trend\",\n  \"authority\": \"assessment_record\",\n  \"effectiveFrom\": \"2026-10-16T13:00:00-04:00\",\n  \"evidenceRefs\": [\n    \"ref-observation-11-item-trend\"\n  ],\n  \"factId\": \"observation-11-item-trend\",\n  \"itemId\": \"item-trend\",\n  \"kind\": \"observation\",\n  \"outcome\": \"correct\",\n  \"skillId\": \"skill-graph\",\n  \"studentId\": \"student-11\"\n}",
+          "locator": "record:observation-11-item-trend",
+          "provenance": {
+            "adapter": "synthetic-ingestion-v1",
+            "contentSha256": "c79135e3dd24e634f17e5f57e577239a9584b7a404f65104a3286efa91772c75",
+            "mode": "test_double",
+            "nativeId": "observation-11-item-trend",
+            "nativeRevision": "synthetic-v1",
+            "retrievedAt": "2026-10-19T06:59:00-04:00"
+          },
+          "publicUrl": null,
+          "refId": "ref-observation-11-item-trend",
+          "source": "fabric",
+          "title": "Synthetic observation record observation-11-item-trend"
+        },
+        {
+          "classId": "class-science-7a",
+          "documentId": "doc-observation-12-item-axis",
+          "excerpt": "{\n  \"assessmentId\": \"assessment-20261016\",\n  \"attemptId\": \"attempt-12-item-axis\",\n  \"authority\": \"assessment_record\",\n  \"effectiveFrom\": \"2026-10-16T13:00:00-04:00\",\n  \"evidenceRefs\": [\n    \"ref-observation-12-item-axis\"\n  ],\n  \"factId\": \"observation-12-item-axis\",\n  \"itemId\": \"item-axis\",\n  \"kind\": \"observation\",\n  \"outcome\": \"incorrect\",\n  \"skillId\": \"skill-graph\",\n  \"studentId\": \"student-12\"\n}",
+          "locator": "record:observation-12-item-axis",
+          "provenance": {
+            "adapter": "synthetic-ingestion-v1",
+            "contentSha256": "62a56417055639809336452a25867760c4c2f8112e304c8729ce231cf60c7b39",
+            "mode": "test_double",
+            "nativeId": "observation-12-item-axis",
+            "nativeRevision": "synthetic-v1",
+            "retrievedAt": "2026-10-19T06:59:00-04:00"
+          },
+          "publicUrl": null,
+          "refId": "ref-observation-12-item-axis",
+          "source": "fabric",
+          "title": "Synthetic observation record observation-12-item-axis"
+        },
+        {
+          "classId": "class-science-7a",
+          "documentId": "doc-observation-12-item-trend",
+          "excerpt": "{\n  \"assessmentId\": \"assessment-20261016\",\n  \"attemptId\": \"attempt-12-item-trend\",\n  \"authority\": \"assessment_record\",\n  \"effectiveFrom\": \"2026-10-16T13:00:00-04:00\",\n  \"evidenceRefs\": [\n    \"ref-observation-12-item-trend\"\n  ],\n  \"factId\": \"observation-12-item-trend\",\n  \"itemId\": \"item-trend\",\n  \"kind\": \"observation\",\n  \"outcome\": \"incorrect\",\n  \"skillId\": \"skill-graph\",\n  \"studentId\": \"student-12\"\n}",
+          "locator": "record:observation-12-item-trend",
+          "provenance": {
+            "adapter": "synthetic-ingestion-v1",
+            "contentSha256": "26b993ef9465d827598ab83aba004925ff039ee18da048295aba67c1249cbc44",
+            "mode": "test_double",
+            "nativeId": "observation-12-item-trend",
+            "nativeRevision": "synthetic-v1",
+            "retrievedAt": "2026-10-19T06:59:00-04:00"
+          },
+          "publicUrl": null,
+          "refId": "ref-observation-12-item-trend",
+          "source": "fabric",
+          "title": "Synthetic observation record observation-12-item-trend"
+        },
+        {
+          "classId": "class-science-7a",
+          "documentId": "doc-observation-12-item-evidence",
+          "excerpt": "{\n  \"assessmentId\": \"assessment-20261016\",\n  \"attemptId\": \"attempt-12-item-evidence\",\n  \"authority\": \"assessment_record\",\n  \"effectiveFrom\": \"2026-10-16T13:00:00-04:00\",\n  \"evidenceRefs\": [\n    \"ref-observation-12-item-evidence\"\n  ],\n  \"factId\": \"observation-12-item-evidence\",\n  \"itemId\": \"item-evidence\",\n  \"kind\": \"observation\",\n  \"outcome\": \"correct\",\n  \"skillId\": \"skill-evidence\",\n  \"studentId\": \"student-12\"\n}",
+          "locator": "record:observation-12-item-evidence",
+          "provenance": {
+            "adapter": "synthetic-ingestion-v1",
+            "contentSha256": "19417aeb3c97f8accff803a3f46d4de64fe31780ae10d37704d130e6ed5444b0",
+            "mode": "test_double",
+            "nativeId": "observation-12-item-evidence",
+            "nativeRevision": "synthetic-v1",
+            "retrievedAt": "2026-10-19T06:59:00-04:00"
+          },
+          "publicUrl": null,
+          "refId": "ref-observation-12-item-evidence",
+          "source": "fabric",
+          "title": "Synthetic observation record observation-12-item-evidence"
+        },
+        {
+          "classId": "class-science-7a",
+          "documentId": "doc-observation-13-item-axis",
+          "excerpt": "{\n  \"assessmentId\": \"assessment-20261016\",\n  \"attemptId\": \"attempt-13-item-axis\",\n  \"authority\": \"assessment_record\",\n  \"effectiveFrom\": \"2026-10-16T13:00:00-04:00\",\n  \"evidenceRefs\": [\n    \"ref-observation-13-item-axis\"\n  ],\n  \"factId\": \"observation-13-item-axis\",\n  \"itemId\": \"item-axis\",\n  \"kind\": \"observation\",\n  \"outcome\": \"incorrect\",\n  \"skillId\": \"skill-graph\",\n  \"studentId\": \"student-13\"\n}",
+          "locator": "record:observation-13-item-axis",
+          "provenance": {
+            "adapter": "synthetic-ingestion-v1",
+            "contentSha256": "6872ca6856c47da045a6a54395e622b6c79dc53cae590c2d67af5235ffa0bcb9",
+            "mode": "test_double",
+            "nativeId": "observation-13-item-axis",
+            "nativeRevision": "synthetic-v1",
+            "retrievedAt": "2026-10-19T06:59:00-04:00"
+          },
+          "publicUrl": null,
+          "refId": "ref-observation-13-item-axis",
+          "source": "fabric",
+          "title": "Synthetic observation record observation-13-item-axis"
+        },
+        {
+          "classId": "class-science-7a",
+          "documentId": "doc-observation-13-item-trend",
+          "excerpt": "{\n  \"assessmentId\": \"assessment-20261016\",\n  \"attemptId\": \"attempt-13-item-trend\",\n  \"authority\": \"assessment_record\",\n  \"effectiveFrom\": \"2026-10-16T13:00:00-04:00\",\n  \"evidenceRefs\": [\n    \"ref-observation-13-item-trend\"\n  ],\n  \"factId\": \"observation-13-item-trend\",\n  \"itemId\": \"item-trend\",\n  \"kind\": \"observation\",\n  \"outcome\": \"incorrect\",\n  \"skillId\": \"skill-graph\",\n  \"studentId\": \"student-13\"\n}",
+          "locator": "record:observation-13-item-trend",
+          "provenance": {
+            "adapter": "synthetic-ingestion-v1",
+            "contentSha256": "03a36b5a8da46483ab27869f68bf1157f6412aa3fb067bde050016b06a3c3c20",
+            "mode": "test_double",
+            "nativeId": "observation-13-item-trend",
+            "nativeRevision": "synthetic-v1",
+            "retrievedAt": "2026-10-19T06:59:00-04:00"
+          },
+          "publicUrl": null,
+          "refId": "ref-observation-13-item-trend",
+          "source": "fabric",
+          "title": "Synthetic observation record observation-13-item-trend"
+        },
+        {
+          "classId": "class-science-7a",
+          "documentId": "doc-observation-13-item-evidence",
+          "excerpt": "{\n  \"assessmentId\": \"assessment-20261016\",\n  \"attemptId\": \"attempt-13-item-evidence\",\n  \"authority\": \"assessment_record\",\n  \"effectiveFrom\": \"2026-10-16T13:00:00-04:00\",\n  \"evidenceRefs\": [\n    \"ref-observation-13-item-evidence\"\n  ],\n  \"factId\": \"observation-13-item-evidence\",\n  \"itemId\": \"item-evidence\",\n  \"kind\": \"observation\",\n  \"outcome\": \"incorrect\",\n  \"skillId\": \"skill-evidence\",\n  \"studentId\": \"student-13\"\n}",
+          "locator": "record:observation-13-item-evidence",
+          "provenance": {
+            "adapter": "synthetic-ingestion-v1",
+            "contentSha256": "a260a42670279d23f415ba27d9681e3a983f0c49bd1bf880daa1e5be7c2262e9",
+            "mode": "test_double",
+            "nativeId": "observation-13-item-evidence",
+            "nativeRevision": "synthetic-v1",
+            "retrievedAt": "2026-10-19T06:59:00-04:00"
+          },
+          "publicUrl": null,
+          "refId": "ref-observation-13-item-evidence",
+          "source": "fabric",
+          "title": "Synthetic observation record observation-13-item-evidence"
+        },
+        {
+          "classId": "class-science-7a",
+          "documentId": "doc-observation-14-item-axis",
+          "excerpt": "{\n  \"assessmentId\": \"assessment-20261016\",\n  \"attemptId\": \"attempt-14-item-axis\",\n  \"authority\": \"assessment_record\",\n  \"effectiveFrom\": \"2026-10-16T13:00:00-04:00\",\n  \"evidenceRefs\": [\n    \"ref-observation-14-item-axis\"\n  ],\n  \"factId\": \"observation-14-item-axis\",\n  \"itemId\": \"item-axis\",\n  \"kind\": \"observation\",\n  \"outcome\": \"correct\",\n  \"skillId\": \"skill-graph\",\n  \"studentId\": \"student-14\"\n}",
+          "locator": "record:observation-14-item-axis",
+          "provenance": {
+            "adapter": "synthetic-ingestion-v1",
+            "contentSha256": "14f5d55435cf00a22454336870277f7bf02399ca7758722362d32675c6030d4c",
+            "mode": "test_double",
+            "nativeId": "observation-14-item-axis",
+            "nativeRevision": "synthetic-v1",
+            "retrievedAt": "2026-10-19T06:59:00-04:00"
+          },
+          "publicUrl": null,
+          "refId": "ref-observation-14-item-axis",
+          "source": "fabric",
+          "title": "Synthetic observation record observation-14-item-axis"
+        },
+        {
+          "classId": "class-science-7a",
+          "documentId": "doc-observation-14-item-trend",
+          "excerpt": "{\n  \"assessmentId\": \"assessment-20261016\",\n  \"attemptId\": \"attempt-14-item-trend\",\n  \"authority\": \"assessment_record\",\n  \"effectiveFrom\": \"2026-10-16T13:00:00-04:00\",\n  \"evidenceRefs\": [\n    \"ref-observation-14-item-trend\"\n  ],\n  \"factId\": \"observation-14-item-trend\",\n  \"itemId\": \"item-trend\",\n  \"kind\": \"observation\",\n  \"outcome\": \"correct\",\n  \"skillId\": \"skill-graph\",\n  \"studentId\": \"student-14\"\n}",
+          "locator": "record:observation-14-item-trend",
+          "provenance": {
+            "adapter": "synthetic-ingestion-v1",
+            "contentSha256": "7ffc67258eda24933d122500e07842b11d3aec2e1b1253e22a78023e7a8e72ca",
+            "mode": "test_double",
+            "nativeId": "observation-14-item-trend",
+            "nativeRevision": "synthetic-v1",
+            "retrievedAt": "2026-10-19T06:59:00-04:00"
+          },
+          "publicUrl": null,
+          "refId": "ref-observation-14-item-trend",
+          "source": "fabric",
+          "title": "Synthetic observation record observation-14-item-trend"
+        },
+        {
+          "classId": "class-science-7a",
+          "documentId": "doc-observation-14-item-evidence",
+          "excerpt": "{\n  \"assessmentId\": \"assessment-20261016\",\n  \"attemptId\": \"attempt-14-item-evidence\",\n  \"authority\": \"assessment_record\",\n  \"effectiveFrom\": \"2026-10-16T13:00:00-04:00\",\n  \"evidenceRefs\": [\n    \"ref-observation-14-item-evidence\"\n  ],\n  \"factId\": \"observation-14-item-evidence\",\n  \"itemId\": \"item-evidence\",\n  \"kind\": \"observation\",\n  \"outcome\": \"incorrect\",\n  \"skillId\": \"skill-evidence\",\n  \"studentId\": \"student-14\"\n}",
+          "locator": "record:observation-14-item-evidence",
+          "provenance": {
+            "adapter": "synthetic-ingestion-v1",
+            "contentSha256": "0f7f731187a5ab5582828968bc838de88cac49f382b6aa9b1f2babc2bef193b1",
+            "mode": "test_double",
+            "nativeId": "observation-14-item-evidence",
+            "nativeRevision": "synthetic-v1",
+            "retrievedAt": "2026-10-19T06:59:00-04:00"
+          },
+          "publicUrl": null,
+          "refId": "ref-observation-14-item-evidence",
+          "source": "fabric",
+          "title": "Synthetic observation record observation-14-item-evidence"
+        },
+        {
+          "classId": "class-science-7a",
+          "documentId": "doc-observation-15-item-axis",
+          "excerpt": "{\n  \"assessmentId\": \"assessment-20261016\",\n  \"attemptId\": \"attempt-15-item-axis\",\n  \"authority\": \"assessment_record\",\n  \"effectiveFrom\": \"2026-10-16T13:00:00-04:00\",\n  \"evidenceRefs\": [\n    \"ref-observation-15-item-axis\"\n  ],\n  \"factId\": \"observation-15-item-axis\",\n  \"itemId\": \"item-axis\",\n  \"kind\": \"observation\",\n  \"outcome\": \"correct\",\n  \"skillId\": \"skill-graph\",\n  \"studentId\": \"student-15\"\n}",
+          "locator": "record:observation-15-item-axis",
+          "provenance": {
+            "adapter": "synthetic-ingestion-v1",
+            "contentSha256": "322ef8da58af6dda5c6f747077863fb9fe02d2fb9d717d14a9051b538cbc1930",
+            "mode": "test_double",
+            "nativeId": "observation-15-item-axis",
+            "nativeRevision": "synthetic-v1",
+            "retrievedAt": "2026-10-19T06:59:00-04:00"
+          },
+          "publicUrl": null,
+          "refId": "ref-observation-15-item-axis",
+          "source": "fabric",
+          "title": "Synthetic observation record observation-15-item-axis"
+        },
+        {
+          "classId": "class-science-7a",
+          "documentId": "doc-observation-15-item-trend",
+          "excerpt": "{\n  \"assessmentId\": \"assessment-20261016\",\n  \"attemptId\": \"attempt-15-item-trend\",\n  \"authority\": \"assessment_record\",\n  \"effectiveFrom\": \"2026-10-16T13:00:00-04:00\",\n  \"evidenceRefs\": [\n    \"ref-observation-15-item-trend\"\n  ],\n  \"factId\": \"observation-15-item-trend\",\n  \"itemId\": \"item-trend\",\n  \"kind\": \"observation\",\n  \"outcome\": \"correct\",\n  \"skillId\": \"skill-graph\",\n  \"studentId\": \"student-15\"\n}",
+          "locator": "record:observation-15-item-trend",
+          "provenance": {
+            "adapter": "synthetic-ingestion-v1",
+            "contentSha256": "f1ae7231fe2949829256f07ef66f4a0c179c6c5075aa18afad3dc810a8d74d1a",
+            "mode": "test_double",
+            "nativeId": "observation-15-item-trend",
+            "nativeRevision": "synthetic-v1",
+            "retrievedAt": "2026-10-19T06:59:00-04:00"
+          },
+          "publicUrl": null,
+          "refId": "ref-observation-15-item-trend",
+          "source": "fabric",
+          "title": "Synthetic observation record observation-15-item-trend"
+        },
+        {
+          "classId": "class-science-7a",
+          "documentId": "doc-observation-15-item-evidence",
+          "excerpt": "{\n  \"assessmentId\": \"assessment-20261016\",\n  \"attemptId\": \"attempt-15-item-evidence\",\n  \"authority\": \"assessment_record\",\n  \"effectiveFrom\": \"2026-10-16T13:00:00-04:00\",\n  \"evidenceRefs\": [\n    \"ref-observation-15-item-evidence\"\n  ],\n  \"factId\": \"observation-15-item-evidence\",\n  \"itemId\": \"item-evidence\",\n  \"kind\": \"observation\",\n  \"outcome\": \"correct\",\n  \"skillId\": \"skill-evidence\",\n  \"studentId\": \"student-15\"\n}",
+          "locator": "record:observation-15-item-evidence",
+          "provenance": {
+            "adapter": "synthetic-ingestion-v1",
+            "contentSha256": "a139abce27d1821b2c319346626ac8d4d392f1e4ab3e8d95da0551a257837c34",
+            "mode": "test_double",
+            "nativeId": "observation-15-item-evidence",
+            "nativeRevision": "synthetic-v1",
+            "retrievedAt": "2026-10-19T06:59:00-04:00"
+          },
+          "publicUrl": null,
+          "refId": "ref-observation-15-item-evidence",
+          "source": "fabric",
+          "title": "Synthetic observation record observation-15-item-evidence"
+        },
+        {
+          "classId": "class-science-7a",
+          "documentId": "doc-observation-16-item-axis",
+          "excerpt": "{\n  \"assessmentId\": \"assessment-20261016\",\n  \"attemptId\": null,\n  \"authority\": \"assessment_record\",\n  \"effectiveFrom\": \"2026-10-16T13:00:00-04:00\",\n  \"evidenceRefs\": [\n    \"ref-observation-16-item-axis\"\n  ],\n  \"factId\": \"observation-16-item-axis\",\n  \"itemId\": \"item-axis\",\n  \"kind\": \"observation\",\n  \"outcome\": \"missing_submission\",\n  \"skillId\": \"skill-graph\",\n  \"studentId\": \"student-16\"\n}",
+          "locator": "record:observation-16-item-axis",
+          "provenance": {
+            "adapter": "synthetic-ingestion-v1",
+            "contentSha256": "55852362306333d2d9d8ecaebf8b99ee06fb6e7bbcc31d395a51e0440eb111ee",
+            "mode": "test_double",
+            "nativeId": "observation-16-item-axis",
+            "nativeRevision": "synthetic-v1",
+            "retrievedAt": "2026-10-19T06:59:00-04:00"
+          },
+          "publicUrl": null,
+          "refId": "ref-observation-16-item-axis",
+          "source": "fabric",
+          "title": "Synthetic observation record observation-16-item-axis"
+        },
+        {
+          "classId": "class-science-7a",
+          "documentId": "doc-observation-16-item-trend",
+          "excerpt": "{\n  \"assessmentId\": \"assessment-20261016\",\n  \"attemptId\": \"attempt-16-item-trend\",\n  \"authority\": \"assessment_record\",\n  \"effectiveFrom\": \"2026-10-16T13:00:00-04:00\",\n  \"evidenceRefs\": [\n    \"ref-observation-16-item-trend\"\n  ],\n  \"factId\": \"observation-16-item-trend\",\n  \"itemId\": \"item-trend\",\n  \"kind\": \"observation\",\n  \"outcome\": \"correct\",\n  \"skillId\": \"skill-graph\",\n  \"studentId\": \"student-16\"\n}",
+          "locator": "record:observation-16-item-trend",
+          "provenance": {
+            "adapter": "synthetic-ingestion-v1",
+            "contentSha256": "bf3031a05f28bfc47dda7be70d505781fe5215044740efcc6807ef57b671c8fc",
+            "mode": "test_double",
+            "nativeId": "observation-16-item-trend",
+            "nativeRevision": "synthetic-v1",
+            "retrievedAt": "2026-10-19T06:59:00-04:00"
+          },
+          "publicUrl": null,
+          "refId": "ref-observation-16-item-trend",
+          "source": "fabric",
+          "title": "Synthetic observation record observation-16-item-trend"
+        },
+        {
+          "classId": "class-science-7a",
+          "documentId": "doc-observation-16-item-evidence",
+          "excerpt": "{\n  \"assessmentId\": \"assessment-20261016\",\n  \"attemptId\": \"attempt-16-item-evidence\",\n  \"authority\": \"assessment_record\",\n  \"effectiveFrom\": \"2026-10-16T13:00:00-04:00\",\n  \"evidenceRefs\": [\n    \"ref-observation-16-item-evidence\"\n  ],\n  \"factId\": \"observation-16-item-evidence\",\n  \"itemId\": \"item-evidence\",\n  \"kind\": \"observation\",\n  \"outcome\": \"correct\",\n  \"skillId\": \"skill-evidence\",\n  \"studentId\": \"student-16\"\n}",
+          "locator": "record:observation-16-item-evidence",
+          "provenance": {
+            "adapter": "synthetic-ingestion-v1",
+            "contentSha256": "14e049f82b0e8201096bc71f8b3aa203b44c2362994f3f77397c48c3017a3a32",
+            "mode": "test_double",
+            "nativeId": "observation-16-item-evidence",
+            "nativeRevision": "synthetic-v1",
+            "retrievedAt": "2026-10-19T06:59:00-04:00"
+          },
+          "publicUrl": null,
+          "refId": "ref-observation-16-item-evidence",
+          "source": "fabric",
+          "title": "Synthetic observation record observation-16-item-evidence"
+        },
+        {
+          "classId": "class-science-7a",
+          "documentId": "doc-observation-17-item-axis",
+          "excerpt": "{\n  \"assessmentId\": \"assessment-20261016\",\n  \"attemptId\": \"attempt-17-item-axis\",\n  \"authority\": \"assessment_record\",\n  \"effectiveFrom\": \"2026-10-16T13:00:00-04:00\",\n  \"evidenceRefs\": [\n    \"ref-observation-17-item-axis\"\n  ],\n  \"factId\": \"observation-17-item-axis\",\n  \"itemId\": \"item-axis\",\n  \"kind\": \"observation\",\n  \"outcome\": \"correct\",\n  \"skillId\": \"skill-graph\",\n  \"studentId\": \"student-17\"\n}",
+          "locator": "record:observation-17-item-axis",
+          "provenance": {
+            "adapter": "synthetic-ingestion-v1",
+            "contentSha256": "24a8b6dc07c336b9f3446279764d27e761267864b907ce35ef67e4f3c755b9dd",
+            "mode": "test_double",
+            "nativeId": "observation-17-item-axis",
+            "nativeRevision": "synthetic-v1",
+            "retrievedAt": "2026-10-19T06:59:00-04:00"
+          },
+          "publicUrl": null,
+          "refId": "ref-observation-17-item-axis",
+          "source": "fabric",
+          "title": "Synthetic observation record observation-17-item-axis"
+        },
+        {
+          "classId": "class-science-7a",
+          "documentId": "doc-observation-17-item-trend",
+          "excerpt": "{\n  \"assessmentId\": \"assessment-20261016\",\n  \"attemptId\": \"attempt-17-item-trend\",\n  \"authority\": \"assessment_record\",\n  \"effectiveFrom\": \"2026-10-16T13:00:00-04:00\",\n  \"evidenceRefs\": [\n    \"ref-observation-17-item-trend\"\n  ],\n  \"factId\": \"observation-17-item-trend\",\n  \"itemId\": \"item-trend\",\n  \"kind\": \"observation\",\n  \"outcome\": \"correct\",\n  \"skillId\": \"skill-graph\",\n  \"studentId\": \"student-17\"\n}",
+          "locator": "record:observation-17-item-trend",
+          "provenance": {
+            "adapter": "synthetic-ingestion-v1",
+            "contentSha256": "03af442a1e96bfbf0a3126c166b7822e71582fbc817870b1f7ea3e9733c016ac",
+            "mode": "test_double",
+            "nativeId": "observation-17-item-trend",
+            "nativeRevision": "synthetic-v1",
+            "retrievedAt": "2026-10-19T06:59:00-04:00"
+          },
+          "publicUrl": null,
+          "refId": "ref-observation-17-item-trend",
+          "source": "fabric",
+          "title": "Synthetic observation record observation-17-item-trend"
+        },
+        {
+          "classId": "class-science-7a",
+          "documentId": "doc-observation-18-item-axis",
+          "excerpt": "{\n  \"assessmentId\": \"assessment-20261016\",\n  \"attemptId\": \"attempt-18-item-axis\",\n  \"authority\": \"assessment_record\",\n  \"effectiveFrom\": \"2026-10-16T13:00:00-04:00\",\n  \"evidenceRefs\": [\n    \"ref-observation-18-item-axis\"\n  ],\n  \"factId\": \"observation-18-item-axis\",\n  \"itemId\": \"item-axis\",\n  \"kind\": \"observation\",\n  \"outcome\": \"incorrect\",\n  \"skillId\": \"skill-graph\",\n  \"studentId\": \"student-18\"\n}",
+          "locator": "record:observation-18-item-axis",
+          "provenance": {
+            "adapter": "synthetic-ingestion-v1",
+            "contentSha256": "5d8df2930ab96b809e3eeaaf0c83b65e6544a94fa991a2e7049b004e51c91c75",
+            "mode": "test_double",
+            "nativeId": "observation-18-item-axis",
+            "nativeRevision": "synthetic-v1",
+            "retrievedAt": "2026-10-19T06:59:00-04:00"
+          },
+          "publicUrl": null,
+          "refId": "ref-observation-18-item-axis",
+          "source": "fabric",
+          "title": "Synthetic observation record observation-18-item-axis"
+        },
+        {
+          "classId": "class-science-7a",
+          "documentId": "doc-observation-18-item-trend",
+          "excerpt": "{\n  \"assessmentId\": \"assessment-20261016\",\n  \"attemptId\": \"attempt-18-item-trend\",\n  \"authority\": \"assessment_record\",\n  \"effectiveFrom\": \"2026-10-16T13:00:00-04:00\",\n  \"evidenceRefs\": [\n    \"ref-observation-18-item-trend\"\n  ],\n  \"factId\": \"observation-18-item-trend\",\n  \"itemId\": \"item-trend\",\n  \"kind\": \"observation\",\n  \"outcome\": \"incorrect\",\n  \"skillId\": \"skill-graph\",\n  \"studentId\": \"student-18\"\n}",
+          "locator": "record:observation-18-item-trend",
+          "provenance": {
+            "adapter": "synthetic-ingestion-v1",
+            "contentSha256": "3b91f8888f8fda6b7da4a2a4e16b88d0fe987ef71d93ebceb199226a72bcad2a",
+            "mode": "test_double",
+            "nativeId": "observation-18-item-trend",
+            "nativeRevision": "synthetic-v1",
+            "retrievedAt": "2026-10-19T06:59:00-04:00"
+          },
+          "publicUrl": null,
+          "refId": "ref-observation-18-item-trend",
+          "source": "fabric",
+          "title": "Synthetic observation record observation-18-item-trend"
+        },
+        {
+          "classId": "class-science-7a",
+          "documentId": "doc-observation-18-item-evidence",
+          "excerpt": "{\n  \"assessmentId\": \"assessment-20261016\",\n  \"attemptId\": \"attempt-18-item-evidence\",\n  \"authority\": \"assessment_record\",\n  \"effectiveFrom\": \"2026-10-16T13:00:00-04:00\",\n  \"evidenceRefs\": [\n    \"ref-observation-18-item-evidence\"\n  ],\n  \"factId\": \"observation-18-item-evidence\",\n  \"itemId\": \"item-evidence\",\n  \"kind\": \"observation\",\n  \"outcome\": \"correct\",\n  \"skillId\": \"skill-evidence\",\n  \"studentId\": \"student-18\"\n}",
+          "locator": "record:observation-18-item-evidence",
+          "provenance": {
+            "adapter": "synthetic-ingestion-v1",
+            "contentSha256": "95f6cd899889ab6135bad58fefc1a9f099472cae1b07b4183d12097f914cddc4",
+            "mode": "test_double",
+            "nativeId": "observation-18-item-evidence",
+            "nativeRevision": "synthetic-v1",
+            "retrievedAt": "2026-10-19T06:59:00-04:00"
+          },
+          "publicUrl": null,
+          "refId": "ref-observation-18-item-evidence",
+          "source": "fabric",
+          "title": "Synthetic observation record observation-18-item-evidence"
+        },
+        {
+          "classId": "class-science-7a",
+          "documentId": "doc-observation-19-item-axis",
+          "excerpt": "{\n  \"assessmentId\": \"assessment-20261016\",\n  \"attemptId\": \"attempt-19-item-axis\",\n  \"authority\": \"assessment_record\",\n  \"effectiveFrom\": \"2026-10-16T13:00:00-04:00\",\n  \"evidenceRefs\": [\n    \"ref-observation-19-item-axis\"\n  ],\n  \"factId\": \"observation-19-item-axis\",\n  \"itemId\": \"item-axis\",\n  \"kind\": \"observation\",\n  \"outcome\": \"incorrect\",\n  \"skillId\": \"skill-graph\",\n  \"studentId\": \"student-19\"\n}",
+          "locator": "record:observation-19-item-axis",
+          "provenance": {
+            "adapter": "synthetic-ingestion-v1",
+            "contentSha256": "530dfc329809afa022aa0893af25d14b1613b481cee5683ac3485cf61ba06b06",
+            "mode": "test_double",
+            "nativeId": "observation-19-item-axis",
+            "nativeRevision": "synthetic-v1",
+            "retrievedAt": "2026-10-19T06:59:00-04:00"
+          },
+          "publicUrl": null,
+          "refId": "ref-observation-19-item-axis",
+          "source": "fabric",
+          "title": "Synthetic observation record observation-19-item-axis"
+        },
+        {
+          "classId": "class-science-7a",
+          "documentId": "doc-observation-19-item-trend",
+          "excerpt": "{\n  \"assessmentId\": \"assessment-20261016\",\n  \"attemptId\": \"attempt-19-item-trend\",\n  \"authority\": \"assessment_record\",\n  \"effectiveFrom\": \"2026-10-16T13:00:00-04:00\",\n  \"evidenceRefs\": [\n    \"ref-observation-19-item-trend\"\n  ],\n  \"factId\": \"observation-19-item-trend\",\n  \"itemId\": \"item-trend\",\n  \"kind\": \"observation\",\n  \"outcome\": \"incorrect\",\n  \"skillId\": \"skill-graph\",\n  \"studentId\": \"student-19\"\n}",
+          "locator": "record:observation-19-item-trend",
+          "provenance": {
+            "adapter": "synthetic-ingestion-v1",
+            "contentSha256": "e35a1882b13f5caad7ff5573d5ca4b366fadfc9766e1a2fc3294a9203aa6b5fa",
+            "mode": "test_double",
+            "nativeId": "observation-19-item-trend",
+            "nativeRevision": "synthetic-v1",
+            "retrievedAt": "2026-10-19T06:59:00-04:00"
+          },
+          "publicUrl": null,
+          "refId": "ref-observation-19-item-trend",
+          "source": "fabric",
+          "title": "Synthetic observation record observation-19-item-trend"
+        },
+        {
+          "classId": "class-science-7a",
+          "documentId": "doc-observation-19-item-evidence",
+          "excerpt": "{\n  \"assessmentId\": \"assessment-20261016\",\n  \"attemptId\": \"attempt-19-item-evidence\",\n  \"authority\": \"assessment_record\",\n  \"effectiveFrom\": \"2026-10-16T13:00:00-04:00\",\n  \"evidenceRefs\": [\n    \"ref-observation-19-item-evidence\"\n  ],\n  \"factId\": \"observation-19-item-evidence\",\n  \"itemId\": \"item-evidence\",\n  \"kind\": \"observation\",\n  \"outcome\": \"incorrect\",\n  \"skillId\": \"skill-evidence\",\n  \"studentId\": \"student-19\"\n}",
+          "locator": "record:observation-19-item-evidence",
+          "provenance": {
+            "adapter": "synthetic-ingestion-v1",
+            "contentSha256": "b40fb47312ec4a5f55ea2749c5f750af72ec5dabac6e0fb1d055d44252dbed5e",
+            "mode": "test_double",
+            "nativeId": "observation-19-item-evidence",
+            "nativeRevision": "synthetic-v1",
+            "retrievedAt": "2026-10-19T06:59:00-04:00"
+          },
+          "publicUrl": null,
+          "refId": "ref-observation-19-item-evidence",
+          "source": "fabric",
+          "title": "Synthetic observation record observation-19-item-evidence"
+        },
+        {
+          "classId": "class-science-7a",
+          "documentId": "doc-observation-20-item-axis",
+          "excerpt": "{\n  \"assessmentId\": \"assessment-20261016\",\n  \"attemptId\": \"attempt-20-item-axis\",\n  \"authority\": \"assessment_record\",\n  \"effectiveFrom\": \"2026-10-16T13:00:00-04:00\",\n  \"evidenceRefs\": [\n    \"ref-observation-20-item-axis\"\n  ],\n  \"factId\": \"observation-20-item-axis\",\n  \"itemId\": \"item-axis\",\n  \"kind\": \"observation\",\n  \"outcome\": \"correct\",\n  \"skillId\": \"skill-graph\",\n  \"studentId\": \"student-20\"\n}",
+          "locator": "record:observation-20-item-axis",
+          "provenance": {
+            "adapter": "synthetic-ingestion-v1",
+            "contentSha256": "b2ac25e0b157ac5e25b6deebaf10028f616d62b385e93dd1f661748f435e0401",
+            "mode": "test_double",
+            "nativeId": "observation-20-item-axis",
+            "nativeRevision": "synthetic-v1",
+            "retrievedAt": "2026-10-19T06:59:00-04:00"
+          },
+          "publicUrl": null,
+          "refId": "ref-observation-20-item-axis",
+          "source": "fabric",
+          "title": "Synthetic observation record observation-20-item-axis"
+        },
+        {
+          "classId": "class-science-7a",
+          "documentId": "doc-observation-20-item-trend",
+          "excerpt": "{\n  \"assessmentId\": \"assessment-20261016\",\n  \"attemptId\": \"attempt-20-item-trend\",\n  \"authority\": \"assessment_record\",\n  \"effectiveFrom\": \"2026-10-16T13:00:00-04:00\",\n  \"evidenceRefs\": [\n    \"ref-observation-20-item-trend\"\n  ],\n  \"factId\": \"observation-20-item-trend\",\n  \"itemId\": \"item-trend\",\n  \"kind\": \"observation\",\n  \"outcome\": \"correct\",\n  \"skillId\": \"skill-graph\",\n  \"studentId\": \"student-20\"\n}",
+          "locator": "record:observation-20-item-trend",
+          "provenance": {
+            "adapter": "synthetic-ingestion-v1",
+            "contentSha256": "eb31e286b96b7d76e7b9aa8d87b005e490315ca7ed0d089bc48ce2d92e5930b6",
+            "mode": "test_double",
+            "nativeId": "observation-20-item-trend",
+            "nativeRevision": "synthetic-v1",
+            "retrievedAt": "2026-10-19T06:59:00-04:00"
+          },
+          "publicUrl": null,
+          "refId": "ref-observation-20-item-trend",
+          "source": "fabric",
+          "title": "Synthetic observation record observation-20-item-trend"
+        },
+        {
+          "classId": "class-science-7a",
+          "documentId": "doc-observation-20-item-evidence",
+          "excerpt": "{\n  \"assessmentId\": \"assessment-20261016\",\n  \"attemptId\": \"attempt-20-item-evidence\",\n  \"authority\": \"assessment_record\",\n  \"effectiveFrom\": \"2026-10-16T13:00:00-04:00\",\n  \"evidenceRefs\": [\n    \"ref-observation-20-item-evidence\"\n  ],\n  \"factId\": \"observation-20-item-evidence\",\n  \"itemId\": \"item-evidence\",\n  \"kind\": \"observation\",\n  \"outcome\": \"incorrect\",\n  \"skillId\": \"skill-evidence\",\n  \"studentId\": \"student-20\"\n}",
+          "locator": "record:observation-20-item-evidence",
+          "provenance": {
+            "adapter": "synthetic-ingestion-v1",
+            "contentSha256": "919404243ef168897996f3b7ade07935a5eca5b677779e63fe26d308e866540a",
+            "mode": "test_double",
+            "nativeId": "observation-20-item-evidence",
+            "nativeRevision": "synthetic-v1",
+            "retrievedAt": "2026-10-19T06:59:00-04:00"
+          },
+          "publicUrl": null,
+          "refId": "ref-observation-20-item-evidence",
+          "source": "fabric",
+          "title": "Synthetic observation record observation-20-item-evidence"
+        },
+        {
+          "classId": "class-science-7a",
+          "documentId": "doc-observation-21-item-axis",
+          "excerpt": "{\n  \"assessmentId\": \"assessment-20261016\",\n  \"attemptId\": \"attempt-21-item-axis\",\n  \"authority\": \"assessment_record\",\n  \"effectiveFrom\": \"2026-10-16T13:00:00-04:00\",\n  \"evidenceRefs\": [\n    \"ref-observation-21-item-axis\"\n  ],\n  \"factId\": \"observation-21-item-axis\",\n  \"itemId\": \"item-axis\",\n  \"kind\": \"observation\",\n  \"outcome\": \"correct\",\n  \"skillId\": \"skill-graph\",\n  \"studentId\": \"student-21\"\n}",
+          "locator": "record:observation-21-item-axis",
+          "provenance": {
+            "adapter": "synthetic-ingestion-v1",
+            "contentSha256": "fa431214eea34c4855c482a56e1bd34337c17f3b12ae7e01c36d8fd125767c9a",
+            "mode": "test_double",
+            "nativeId": "observation-21-item-axis",
+            "nativeRevision": "synthetic-v1",
+            "retrievedAt": "2026-10-19T06:59:00-04:00"
+          },
+          "publicUrl": null,
+          "refId": "ref-observation-21-item-axis",
+          "source": "fabric",
+          "title": "Synthetic observation record observation-21-item-axis"
+        },
+        {
+          "classId": "class-science-7a",
+          "documentId": "doc-observation-21-item-trend",
+          "excerpt": "{\n  \"assessmentId\": \"assessment-20261016\",\n  \"attemptId\": \"attempt-21-item-trend\",\n  \"authority\": \"assessment_record\",\n  \"effectiveFrom\": \"2026-10-16T13:00:00-04:00\",\n  \"evidenceRefs\": [\n    \"ref-observation-21-item-trend\"\n  ],\n  \"factId\": \"observation-21-item-trend\",\n  \"itemId\": \"item-trend\",\n  \"kind\": \"observation\",\n  \"outcome\": \"correct\",\n  \"skillId\": \"skill-graph\",\n  \"studentId\": \"student-21\"\n}",
+          "locator": "record:observation-21-item-trend",
+          "provenance": {
+            "adapter": "synthetic-ingestion-v1",
+            "contentSha256": "393621fe0f989c08684646e6215752a843673a3491a2f99699d3db57184c5045",
+            "mode": "test_double",
+            "nativeId": "observation-21-item-trend",
+            "nativeRevision": "synthetic-v1",
+            "retrievedAt": "2026-10-19T06:59:00-04:00"
+          },
+          "publicUrl": null,
+          "refId": "ref-observation-21-item-trend",
+          "source": "fabric",
+          "title": "Synthetic observation record observation-21-item-trend"
+        },
+        {
+          "classId": "class-science-7a",
+          "documentId": "doc-observation-21-item-evidence",
+          "excerpt": "{\n  \"assessmentId\": \"assessment-20261016\",\n  \"attemptId\": \"attempt-21-item-evidence\",\n  \"authority\": \"assessment_record\",\n  \"effectiveFrom\": \"2026-10-16T13:00:00-04:00\",\n  \"evidenceRefs\": [\n    \"ref-observation-21-item-evidence\"\n  ],\n  \"factId\": \"observation-21-item-evidence\",\n  \"itemId\": \"item-evidence\",\n  \"kind\": \"observation\",\n  \"outcome\": \"correct\",\n  \"skillId\": \"skill-evidence\",\n  \"studentId\": \"student-21\"\n}",
+          "locator": "record:observation-21-item-evidence",
+          "provenance": {
+            "adapter": "synthetic-ingestion-v1",
+            "contentSha256": "965bbda9e1de78177f9384eb9e548637a16ce9974fe08505ac958c5ad060fc85",
+            "mode": "test_double",
+            "nativeId": "observation-21-item-evidence",
+            "nativeRevision": "synthetic-v1",
+            "retrievedAt": "2026-10-19T06:59:00-04:00"
+          },
+          "publicUrl": null,
+          "refId": "ref-observation-21-item-evidence",
+          "source": "fabric",
+          "title": "Synthetic observation record observation-21-item-evidence"
+        },
+        {
+          "classId": "class-science-7a",
+          "documentId": "doc-observation-22-item-axis",
+          "excerpt": "{\n  \"assessmentId\": \"assessment-20261016\",\n  \"attemptId\": null,\n  \"authority\": \"assessment_record\",\n  \"effectiveFrom\": \"2026-10-16T13:00:00-04:00\",\n  \"evidenceRefs\": [\n    \"ref-observation-22-item-axis\"\n  ],\n  \"factId\": \"observation-22-item-axis\",\n  \"itemId\": \"item-axis\",\n  \"kind\": \"observation\",\n  \"outcome\": \"missing_submission\",\n  \"skillId\": \"skill-graph\",\n  \"studentId\": \"student-22\"\n}",
+          "locator": "record:observation-22-item-axis",
+          "provenance": {
+            "adapter": "synthetic-ingestion-v1",
+            "contentSha256": "863a5f7cfd055583164bbaf18dbebe71245ac97e2ff124d5860ca68cb8b8ca7f",
+            "mode": "test_double",
+            "nativeId": "observation-22-item-axis",
+            "nativeRevision": "synthetic-v1",
+            "retrievedAt": "2026-10-19T06:59:00-04:00"
+          },
+          "publicUrl": null,
+          "refId": "ref-observation-22-item-axis",
+          "source": "fabric",
+          "title": "Synthetic observation record observation-22-item-axis"
+        },
+        {
+          "classId": "class-science-7a",
+          "documentId": "doc-observation-22-item-trend",
+          "excerpt": "{\n  \"assessmentId\": \"assessment-20261016\",\n  \"attemptId\": \"attempt-22-item-trend\",\n  \"authority\": \"assessment_record\",\n  \"effectiveFrom\": \"2026-10-16T13:00:00-04:00\",\n  \"evidenceRefs\": [\n    \"ref-observation-22-item-trend\"\n  ],\n  \"factId\": \"observation-22-item-trend\",\n  \"itemId\": \"item-trend\",\n  \"kind\": \"observation\",\n  \"outcome\": \"correct\",\n  \"skillId\": \"skill-graph\",\n  \"studentId\": \"student-22\"\n}",
+          "locator": "record:observation-22-item-trend",
+          "provenance": {
+            "adapter": "synthetic-ingestion-v1",
+            "contentSha256": "781facc1a17ff97f971f4990e9464e030a9486c29af244ea20826d8f578fb1eb",
+            "mode": "test_double",
+            "nativeId": "observation-22-item-trend",
+            "nativeRevision": "synthetic-v1",
+            "retrievedAt": "2026-10-19T06:59:00-04:00"
+          },
+          "publicUrl": null,
+          "refId": "ref-observation-22-item-trend",
+          "source": "fabric",
+          "title": "Synthetic observation record observation-22-item-trend"
+        },
+        {
+          "classId": "class-science-7a",
+          "documentId": "doc-observation-22-item-evidence",
+          "excerpt": "{\n  \"assessmentId\": \"assessment-20261016\",\n  \"attemptId\": \"attempt-22-item-evidence\",\n  \"authority\": \"assessment_record\",\n  \"effectiveFrom\": \"2026-10-16T13:00:00-04:00\",\n  \"evidenceRefs\": [\n    \"ref-observation-22-item-evidence\"\n  ],\n  \"factId\": \"observation-22-item-evidence\",\n  \"itemId\": \"item-evidence\",\n  \"kind\": \"observation\",\n  \"outcome\": \"correct\",\n  \"skillId\": \"skill-evidence\",\n  \"studentId\": \"student-22\"\n}",
+          "locator": "record:observation-22-item-evidence",
+          "provenance": {
+            "adapter": "synthetic-ingestion-v1",
+            "contentSha256": "49afe44f14c117d10bdd65ff25f46d8777dceec3b540f7b95b6f25be8adad74d",
+            "mode": "test_double",
+            "nativeId": "observation-22-item-evidence",
+            "nativeRevision": "synthetic-v1",
+            "retrievedAt": "2026-10-19T06:59:00-04:00"
+          },
+          "publicUrl": null,
+          "refId": "ref-observation-22-item-evidence",
+          "source": "fabric",
+          "title": "Synthetic observation record observation-22-item-evidence"
+        },
+        {
+          "classId": "class-science-7a",
+          "documentId": "doc-observation-23-item-axis",
+          "excerpt": "{\n  \"assessmentId\": \"assessment-20261016\",\n  \"attemptId\": \"attempt-23-item-axis\",\n  \"authority\": \"assessment_record\",\n  \"effectiveFrom\": \"2026-10-16T13:00:00-04:00\",\n  \"evidenceRefs\": [\n    \"ref-observation-23-item-axis\"\n  ],\n  \"factId\": \"observation-23-item-axis\",\n  \"itemId\": \"item-axis\",\n  \"kind\": \"observation\",\n  \"outcome\": \"correct\",\n  \"skillId\": \"skill-graph\",\n  \"studentId\": \"student-23\"\n}",
+          "locator": "record:observation-23-item-axis",
+          "provenance": {
+            "adapter": "synthetic-ingestion-v1",
+            "contentSha256": "9ccf563fb13a546bbd3db4fd495a35bd30973ff4c28a14daf4d16d78b5e1866e",
+            "mode": "test_double",
+            "nativeId": "observation-23-item-axis",
+            "nativeRevision": "synthetic-v1",
+            "retrievedAt": "2026-10-19T06:59:00-04:00"
+          },
+          "publicUrl": null,
+          "refId": "ref-observation-23-item-axis",
+          "source": "fabric",
+          "title": "Synthetic observation record observation-23-item-axis"
+        },
+        {
+          "classId": "class-science-7a",
+          "documentId": "doc-observation-23-item-trend",
+          "excerpt": "{\n  \"assessmentId\": \"assessment-20261016\",\n  \"attemptId\": \"attempt-23-item-trend\",\n  \"authority\": \"assessment_record\",\n  \"effectiveFrom\": \"2026-10-16T13:00:00-04:00\",\n  \"evidenceRefs\": [\n    \"ref-observation-23-item-trend\"\n  ],\n  \"factId\": \"observation-23-item-trend\",\n  \"itemId\": \"item-trend\",\n  \"kind\": \"observation\",\n  \"outcome\": \"correct\",\n  \"skillId\": \"skill-graph\",\n  \"studentId\": \"student-23\"\n}",
+          "locator": "record:observation-23-item-trend",
+          "provenance": {
+            "adapter": "synthetic-ingestion-v1",
+            "contentSha256": "be8e624a27edf6b508c2fbb9c76d037ee73a301e834d1e365bf79c35d3ddefef",
+            "mode": "test_double",
+            "nativeId": "observation-23-item-trend",
+            "nativeRevision": "synthetic-v1",
+            "retrievedAt": "2026-10-19T06:59:00-04:00"
+          },
+          "publicUrl": null,
+          "refId": "ref-observation-23-item-trend",
+          "source": "fabric",
+          "title": "Synthetic observation record observation-23-item-trend"
+        },
+        {
+          "classId": "class-science-7a",
+          "documentId": "doc-observation-24-item-axis",
+          "excerpt": "{\n  \"assessmentId\": \"assessment-20261016\",\n  \"attemptId\": \"attempt-24-item-axis\",\n  \"authority\": \"assessment_record\",\n  \"effectiveFrom\": \"2026-10-16T13:00:00-04:00\",\n  \"evidenceRefs\": [\n    \"ref-observation-24-item-axis\"\n  ],\n  \"factId\": \"observation-24-item-axis\",\n  \"itemId\": \"item-axis\",\n  \"kind\": \"observation\",\n  \"outcome\": \"incorrect\",\n  \"skillId\": \"skill-graph\",\n  \"studentId\": \"student-24\"\n}",
+          "locator": "record:observation-24-item-axis",
+          "provenance": {
+            "adapter": "synthetic-ingestion-v1",
+            "contentSha256": "32e281d808f09d7eadae6274f82f674234c5800d2bae19d47560745edde75a80",
+            "mode": "test_double",
+            "nativeId": "observation-24-item-axis",
+            "nativeRevision": "synthetic-v1",
+            "retrievedAt": "2026-10-19T06:59:00-04:00"
+          },
+          "publicUrl": null,
+          "refId": "ref-observation-24-item-axis",
+          "source": "fabric",
+          "title": "Synthetic observation record observation-24-item-axis"
+        },
+        {
+          "classId": "class-science-7a",
+          "documentId": "doc-observation-24-item-trend",
+          "excerpt": "{\n  \"assessmentId\": \"assessment-20261016\",\n  \"attemptId\": \"attempt-24-item-trend\",\n  \"authority\": \"assessment_record\",\n  \"effectiveFrom\": \"2026-10-16T13:00:00-04:00\",\n  \"evidenceRefs\": [\n    \"ref-observation-24-item-trend\"\n  ],\n  \"factId\": \"observation-24-item-trend\",\n  \"itemId\": \"item-trend\",\n  \"kind\": \"observation\",\n  \"outcome\": \"incorrect\",\n  \"skillId\": \"skill-graph\",\n  \"studentId\": \"student-24\"\n}",
+          "locator": "record:observation-24-item-trend",
+          "provenance": {
+            "adapter": "synthetic-ingestion-v1",
+            "contentSha256": "d17ab8b4c9f24670b817961bb0fc2da4bf85b4a23be2dfe8adf49010178dd86e",
+            "mode": "test_double",
+            "nativeId": "observation-24-item-trend",
+            "nativeRevision": "synthetic-v1",
+            "retrievedAt": "2026-10-19T06:59:00-04:00"
+          },
+          "publicUrl": null,
+          "refId": "ref-observation-24-item-trend",
+          "source": "fabric",
+          "title": "Synthetic observation record observation-24-item-trend"
+        },
+        {
+          "classId": "class-science-7a",
+          "documentId": "doc-observation-24-item-evidence",
+          "excerpt": "{\n  \"assessmentId\": \"assessment-20261016\",\n  \"attemptId\": \"attempt-24-item-evidence\",\n  \"authority\": \"assessment_record\",\n  \"effectiveFrom\": \"2026-10-16T13:00:00-04:00\",\n  \"evidenceRefs\": [\n    \"ref-observation-24-item-evidence\"\n  ],\n  \"factId\": \"observation-24-item-evidence\",\n  \"itemId\": \"item-evidence\",\n  \"kind\": \"observation\",\n  \"outcome\": \"correct\",\n  \"skillId\": \"skill-evidence\",\n  \"studentId\": \"student-24\"\n}",
+          "locator": "record:observation-24-item-evidence",
+          "provenance": {
+            "adapter": "synthetic-ingestion-v1",
+            "contentSha256": "b9715df35e53a216f4f46fdf39c0d92d06d723a27813289f5e3fa8f031ac2674",
+            "mode": "test_double",
+            "nativeId": "observation-24-item-evidence",
+            "nativeRevision": "synthetic-v1",
+            "retrievedAt": "2026-10-19T06:59:00-04:00"
+          },
+          "publicUrl": null,
+          "refId": "ref-observation-24-item-evidence",
+          "source": "fabric",
+          "title": "Synthetic observation record observation-24-item-evidence"
+        }
+      ],
+      "facts": [
+        {
+          "authority": "assessment_record",
+          "effectiveFrom": "2026-10-16T00:00:00-04:00",
+          "evidenceRefs": [
+            "ref-roster"
+          ],
+          "factId": "roster",
+          "kind": "roster",
+          "studentIds": [
+            "student-01",
+            "student-02",
+            "student-03",
+            "student-04",
+            "student-05",
+            "student-06",
+            "student-07",
+            "student-08",
+            "student-09",
+            "student-10",
+            "student-11",
+            "student-12",
+            "student-13",
+            "student-14",
+            "student-15",
+            "student-16",
+            "student-17",
+            "student-18",
+            "student-19",
+            "student-20",
+            "student-21",
+            "student-22",
+            "student-23",
+            "student-24"
+          ]
+        },
+        {
+          "assessmentId": "assessment-20261016",
+          "attemptSelection": "latest_effective_then_attempt_id",
+          "authority": "assessment_record",
+          "effectiveFrom": "2026-10-16T00:00:00-04:00",
+          "evidenceRefs": [
+            "ref-assessment-coverage"
+          ],
+          "evidenceSkillId": "skill-evidence",
+          "factId": "assessment-coverage",
+          "graphSkillId": "skill-graph",
+          "itemSkills": {
+            "item-axis": "skill-graph",
+            "item-evidence": "skill-evidence",
+            "item-trend": "skill-graph"
+          },
+          "kind": "assessment"
+        },
+        {
+          "assessmentId": "assessment-20261016",
+          "attemptId": "attempt-01-item-axis",
+          "authority": "assessment_record",
+          "effectiveFrom": "2026-10-16T13:00:00-04:00",
+          "evidenceRefs": [
+            "ref-observation-01-item-axis"
+          ],
+          "factId": "observation-01-item-axis",
+          "itemId": "item-axis",
+          "kind": "observation",
+          "outcome": "incorrect",
+          "skillId": "skill-graph",
+          "studentId": "student-01"
+        },
+        {
+          "assessmentId": "assessment-20261016",
+          "attemptId": "attempt-01-item-trend",
+          "authority": "assessment_record",
+          "effectiveFrom": "2026-10-16T13:00:00-04:00",
+          "evidenceRefs": [
+            "ref-observation-01-item-trend"
+          ],
+          "factId": "observation-01-item-trend",
+          "itemId": "item-trend",
+          "kind": "observation",
+          "outcome": "incorrect",
+          "skillId": "skill-graph",
+          "studentId": "student-01"
+        },
+        {
+          "assessmentId": "assessment-20261016",
+          "attemptId": "attempt-01-item-evidence",
+          "authority": "assessment_record",
+          "effectiveFrom": "2026-10-16T13:00:00-04:00",
+          "evidenceRefs": [
+            "ref-observation-01-item-evidence"
+          ],
+          "factId": "observation-01-item-evidence",
+          "itemId": "item-evidence",
+          "kind": "observation",
+          "outcome": "incorrect",
+          "skillId": "skill-evidence",
+          "studentId": "student-01"
+        },
+        {
+          "assessmentId": "assessment-20261016",
+          "attemptId": "attempt-02-item-axis",
+          "authority": "assessment_record",
+          "effectiveFrom": "2026-10-16T13:00:00-04:00",
+          "evidenceRefs": [
+            "ref-observation-02-item-axis"
+          ],
+          "factId": "observation-02-item-axis",
+          "itemId": "item-axis",
+          "kind": "observation",
+          "outcome": "correct",
+          "skillId": "skill-graph",
+          "studentId": "student-02"
+        },
+        {
+          "assessmentId": "assessment-20261016",
+          "attemptId": "attempt-02-item-trend",
+          "authority": "assessment_record",
+          "effectiveFrom": "2026-10-16T13:00:00-04:00",
+          "evidenceRefs": [
+            "ref-observation-02-item-trend"
+          ],
+          "factId": "observation-02-item-trend",
+          "itemId": "item-trend",
+          "kind": "observation",
+          "outcome": "correct",
+          "skillId": "skill-graph",
+          "studentId": "student-02"
+        },
+        {
+          "assessmentId": "assessment-20261016",
+          "attemptId": "attempt-02-item-evidence",
+          "authority": "assessment_record",
+          "effectiveFrom": "2026-10-16T13:00:00-04:00",
+          "evidenceRefs": [
+            "ref-observation-02-item-evidence"
+          ],
+          "factId": "observation-02-item-evidence",
+          "itemId": "item-evidence",
+          "kind": "observation",
+          "outcome": "incorrect",
+          "skillId": "skill-evidence",
+          "studentId": "student-02"
+        },
+        {
+          "assessmentId": "assessment-20261016",
+          "attemptId": "attempt-03-item-axis",
+          "authority": "assessment_record",
+          "effectiveFrom": "2026-10-16T13:00:00-04:00",
+          "evidenceRefs": [
+            "ref-observation-03-item-axis"
+          ],
+          "factId": "observation-03-item-axis",
+          "itemId": "item-axis",
+          "kind": "observation",
+          "outcome": "correct",
+          "skillId": "skill-graph",
+          "studentId": "student-03"
+        },
+        {
+          "assessmentId": "assessment-20261016",
+          "attemptId": "attempt-03-item-trend",
+          "authority": "assessment_record",
+          "effectiveFrom": "2026-10-16T13:00:00-04:00",
+          "evidenceRefs": [
+            "ref-observation-03-item-trend"
+          ],
+          "factId": "observation-03-item-trend",
+          "itemId": "item-trend",
+          "kind": "observation",
+          "outcome": "correct",
+          "skillId": "skill-graph",
+          "studentId": "student-03"
+        },
+        {
+          "assessmentId": "assessment-20261016",
+          "attemptId": "attempt-03-item-evidence",
+          "authority": "assessment_record",
+          "effectiveFrom": "2026-10-16T13:00:00-04:00",
+          "evidenceRefs": [
+            "ref-observation-03-item-evidence"
+          ],
+          "factId": "observation-03-item-evidence",
+          "itemId": "item-evidence",
+          "kind": "observation",
+          "outcome": "correct",
+          "skillId": "skill-evidence",
+          "studentId": "student-03"
+        },
+        {
+          "assessmentId": "assessment-20261016",
+          "attemptId": null,
+          "authority": "assessment_record",
+          "effectiveFrom": "2026-10-16T13:00:00-04:00",
+          "evidenceRefs": [
+            "ref-observation-04-item-axis"
+          ],
+          "factId": "observation-04-item-axis",
+          "itemId": "item-axis",
+          "kind": "observation",
+          "outcome": "missing_submission",
+          "skillId": "skill-graph",
+          "studentId": "student-04"
+        },
+        {
+          "assessmentId": "assessment-20261016",
+          "attemptId": "attempt-04-item-trend",
+          "authority": "assessment_record",
+          "effectiveFrom": "2026-10-16T13:00:00-04:00",
+          "evidenceRefs": [
+            "ref-observation-04-item-trend"
+          ],
+          "factId": "observation-04-item-trend",
+          "itemId": "item-trend",
+          "kind": "observation",
+          "outcome": "correct",
+          "skillId": "skill-graph",
+          "studentId": "student-04"
+        },
+        {
+          "assessmentId": "assessment-20261016",
+          "attemptId": "attempt-04-item-evidence",
+          "authority": "assessment_record",
+          "effectiveFrom": "2026-10-16T13:00:00-04:00",
+          "evidenceRefs": [
+            "ref-observation-04-item-evidence"
+          ],
+          "factId": "observation-04-item-evidence",
+          "itemId": "item-evidence",
+          "kind": "observation",
+          "outcome": "correct",
+          "skillId": "skill-evidence",
+          "studentId": "student-04"
+        },
+        {
+          "assessmentId": "assessment-20261016",
+          "attemptId": "attempt-05-item-axis",
+          "authority": "assessment_record",
+          "effectiveFrom": "2026-10-16T13:00:00-04:00",
+          "evidenceRefs": [
+            "ref-observation-05-item-axis"
+          ],
+          "factId": "observation-05-item-axis",
+          "itemId": "item-axis",
+          "kind": "observation",
+          "outcome": "correct",
+          "skillId": "skill-graph",
+          "studentId": "student-05"
+        },
+        {
+          "assessmentId": "assessment-20261016",
+          "attemptId": "attempt-05-item-trend",
+          "authority": "assessment_record",
+          "effectiveFrom": "2026-10-16T13:00:00-04:00",
+          "evidenceRefs": [
+            "ref-observation-05-item-trend"
+          ],
+          "factId": "observation-05-item-trend",
+          "itemId": "item-trend",
+          "kind": "observation",
+          "outcome": "correct",
+          "skillId": "skill-graph",
+          "studentId": "student-05"
+        },
+        {
+          "assessmentId": "assessment-20261016",
+          "attemptId": "attempt-06-item-axis",
+          "authority": "assessment_record",
+          "effectiveFrom": "2026-10-16T13:00:00-04:00",
+          "evidenceRefs": [
+            "ref-observation-06-item-axis"
+          ],
+          "factId": "observation-06-item-axis",
+          "itemId": "item-axis",
+          "kind": "observation",
+          "outcome": "incorrect",
+          "skillId": "skill-graph",
+          "studentId": "student-06"
+        },
+        {
+          "assessmentId": "assessment-20261016",
+          "attemptId": "attempt-06-item-trend",
+          "authority": "assessment_record",
+          "effectiveFrom": "2026-10-16T13:00:00-04:00",
+          "evidenceRefs": [
+            "ref-observation-06-item-trend"
+          ],
+          "factId": "observation-06-item-trend",
+          "itemId": "item-trend",
+          "kind": "observation",
+          "outcome": "incorrect",
+          "skillId": "skill-graph",
+          "studentId": "student-06"
+        },
+        {
+          "assessmentId": "assessment-20261016",
+          "attemptId": "attempt-06-item-evidence",
+          "authority": "assessment_record",
+          "effectiveFrom": "2026-10-16T13:00:00-04:00",
+          "evidenceRefs": [
+            "ref-observation-06-item-evidence"
+          ],
+          "factId": "observation-06-item-evidence",
+          "itemId": "item-evidence",
+          "kind": "observation",
+          "outcome": "correct",
+          "skillId": "skill-evidence",
+          "studentId": "student-06"
+        },
+        {
+          "assessmentId": "assessment-20261016",
+          "attemptId": "attempt-07-item-axis",
+          "authority": "assessment_record",
+          "effectiveFrom": "2026-10-16T13:00:00-04:00",
+          "evidenceRefs": [
+            "ref-observation-07-item-axis"
+          ],
+          "factId": "observation-07-item-axis",
+          "itemId": "item-axis",
+          "kind": "observation",
+          "outcome": "incorrect",
+          "skillId": "skill-graph",
+          "studentId": "student-07"
+        },
+        {
+          "assessmentId": "assessment-20261016",
+          "attemptId": "attempt-07-item-trend",
+          "authority": "assessment_record",
+          "effectiveFrom": "2026-10-16T13:00:00-04:00",
+          "evidenceRefs": [
+            "ref-observation-07-item-trend"
+          ],
+          "factId": "observation-07-item-trend",
+          "itemId": "item-trend",
+          "kind": "observation",
+          "outcome": "incorrect",
+          "skillId": "skill-graph",
+          "studentId": "student-07"
+        },
+        {
+          "assessmentId": "assessment-20261016",
+          "attemptId": "attempt-07-item-evidence",
+          "authority": "assessment_record",
+          "effectiveFrom": "2026-10-16T13:00:00-04:00",
+          "evidenceRefs": [
+            "ref-observation-07-item-evidence"
+          ],
+          "factId": "observation-07-item-evidence",
+          "itemId": "item-evidence",
+          "kind": "observation",
+          "outcome": "incorrect",
+          "skillId": "skill-evidence",
+          "studentId": "student-07"
+        },
+        {
+          "assessmentId": "assessment-20261016",
+          "attemptId": "attempt-08-item-axis",
+          "authority": "assessment_record",
+          "effectiveFrom": "2026-10-16T13:00:00-04:00",
+          "evidenceRefs": [
+            "ref-observation-08-item-axis"
+          ],
+          "factId": "observation-08-item-axis",
+          "itemId": "item-axis",
+          "kind": "observation",
+          "outcome": "correct",
+          "skillId": "skill-graph",
+          "studentId": "student-08"
+        },
+        {
+          "assessmentId": "assessment-20261016",
+          "attemptId": "attempt-08-item-trend",
+          "authority": "assessment_record",
+          "effectiveFrom": "2026-10-16T13:00:00-04:00",
+          "evidenceRefs": [
+            "ref-observation-08-item-trend"
+          ],
+          "factId": "observation-08-item-trend",
+          "itemId": "item-trend",
+          "kind": "observation",
+          "outcome": "correct",
+          "skillId": "skill-graph",
+          "studentId": "student-08"
+        },
+        {
+          "assessmentId": "assessment-20261016",
+          "attemptId": "attempt-08-item-evidence",
+          "authority": "assessment_record",
+          "effectiveFrom": "2026-10-16T13:00:00-04:00",
+          "evidenceRefs": [
+            "ref-observation-08-item-evidence"
+          ],
+          "factId": "observation-08-item-evidence",
+          "itemId": "item-evidence",
+          "kind": "observation",
+          "outcome": "incorrect",
+          "skillId": "skill-evidence",
+          "studentId": "student-08"
+        },
+        {
+          "assessmentId": "assessment-20261016",
+          "attemptId": "attempt-09-item-axis",
+          "authority": "assessment_record",
+          "effectiveFrom": "2026-10-16T13:00:00-04:00",
+          "evidenceRefs": [
+            "ref-observation-09-item-axis"
+          ],
+          "factId": "observation-09-item-axis",
+          "itemId": "item-axis",
+          "kind": "observation",
+          "outcome": "correct",
+          "skillId": "skill-graph",
+          "studentId": "student-09"
+        },
+        {
+          "assessmentId": "assessment-20261016",
+          "attemptId": "attempt-09-item-trend",
+          "authority": "assessment_record",
+          "effectiveFrom": "2026-10-16T13:00:00-04:00",
+          "evidenceRefs": [
+            "ref-observation-09-item-trend"
+          ],
+          "factId": "observation-09-item-trend",
+          "itemId": "item-trend",
+          "kind": "observation",
+          "outcome": "correct",
+          "skillId": "skill-graph",
+          "studentId": "student-09"
+        },
+        {
+          "assessmentId": "assessment-20261016",
+          "attemptId": "attempt-09-item-evidence",
+          "authority": "assessment_record",
+          "effectiveFrom": "2026-10-16T13:00:00-04:00",
+          "evidenceRefs": [
+            "ref-observation-09-item-evidence"
+          ],
+          "factId": "observation-09-item-evidence",
+          "itemId": "item-evidence",
+          "kind": "observation",
+          "outcome": "correct",
+          "skillId": "skill-evidence",
+          "studentId": "student-09"
+        },
+        {
+          "assessmentId": "assessment-20261016",
+          "attemptId": null,
+          "authority": "assessment_record",
+          "effectiveFrom": "2026-10-16T13:00:00-04:00",
+          "evidenceRefs": [
+            "ref-observation-10-item-axis"
+          ],
+          "factId": "observation-10-item-axis",
+          "itemId": "item-axis",
+          "kind": "observation",
+          "outcome": "missing_submission",
+          "skillId": "skill-graph",
+          "studentId": "student-10"
+        },
+        {
+          "assessmentId": "assessment-20261016",
+          "attemptId": "attempt-10-item-trend",
+          "authority": "assessment_record",
+          "effectiveFrom": "2026-10-16T13:00:00-04:00",
+          "evidenceRefs": [
+            "ref-observation-10-item-trend"
+          ],
+          "factId": "observation-10-item-trend",
+          "itemId": "item-trend",
+          "kind": "observation",
+          "outcome": "correct",
+          "skillId": "skill-graph",
+          "studentId": "student-10"
+        },
+        {
+          "assessmentId": "assessment-20261016",
+          "attemptId": "attempt-10-item-evidence",
+          "authority": "assessment_record",
+          "effectiveFrom": "2026-10-16T13:00:00-04:00",
+          "evidenceRefs": [
+            "ref-observation-10-item-evidence"
+          ],
+          "factId": "observation-10-item-evidence",
+          "itemId": "item-evidence",
+          "kind": "observation",
+          "outcome": "correct",
+          "skillId": "skill-evidence",
+          "studentId": "student-10"
+        },
+        {
+          "assessmentId": "assessment-20261016",
+          "attemptId": "attempt-11-item-axis",
+          "authority": "assessment_record",
+          "effectiveFrom": "2026-10-16T13:00:00-04:00",
+          "evidenceRefs": [
+            "ref-observation-11-item-axis"
+          ],
+          "factId": "observation-11-item-axis",
+          "itemId": "item-axis",
+          "kind": "observation",
+          "outcome": "correct",
+          "skillId": "skill-graph",
+          "studentId": "student-11"
+        },
+        {
+          "assessmentId": "assessment-20261016",
+          "attemptId": "attempt-11-item-trend",
+          "authority": "assessment_record",
+          "effectiveFrom": "2026-10-16T13:00:00-04:00",
+          "evidenceRefs": [
+            "ref-observation-11-item-trend"
+          ],
+          "factId": "observation-11-item-trend",
+          "itemId": "item-trend",
+          "kind": "observation",
+          "outcome": "correct",
+          "skillId": "skill-graph",
+          "studentId": "student-11"
+        },
+        {
+          "assessmentId": "assessment-20261016",
+          "attemptId": "attempt-12-item-axis",
+          "authority": "assessment_record",
+          "effectiveFrom": "2026-10-16T13:00:00-04:00",
+          "evidenceRefs": [
+            "ref-observation-12-item-axis"
+          ],
+          "factId": "observation-12-item-axis",
+          "itemId": "item-axis",
+          "kind": "observation",
+          "outcome": "incorrect",
+          "skillId": "skill-graph",
+          "studentId": "student-12"
+        },
+        {
+          "assessmentId": "assessment-20261016",
+          "attemptId": "attempt-12-item-trend",
+          "authority": "assessment_record",
+          "effectiveFrom": "2026-10-16T13:00:00-04:00",
+          "evidenceRefs": [
+            "ref-observation-12-item-trend"
+          ],
+          "factId": "observation-12-item-trend",
+          "itemId": "item-trend",
+          "kind": "observation",
+          "outcome": "incorrect",
+          "skillId": "skill-graph",
+          "studentId": "student-12"
+        },
+        {
+          "assessmentId": "assessment-20261016",
+          "attemptId": "attempt-12-item-evidence",
+          "authority": "assessment_record",
+          "effectiveFrom": "2026-10-16T13:00:00-04:00",
+          "evidenceRefs": [
+            "ref-observation-12-item-evidence"
+          ],
+          "factId": "observation-12-item-evidence",
+          "itemId": "item-evidence",
+          "kind": "observation",
+          "outcome": "correct",
+          "skillId": "skill-evidence",
+          "studentId": "student-12"
+        },
+        {
+          "assessmentId": "assessment-20261016",
+          "attemptId": "attempt-13-item-axis",
+          "authority": "assessment_record",
+          "effectiveFrom": "2026-10-16T13:00:00-04:00",
+          "evidenceRefs": [
+            "ref-observation-13-item-axis"
+          ],
+          "factId": "observation-13-item-axis",
+          "itemId": "item-axis",
+          "kind": "observation",
+          "outcome": "incorrect",
+          "skillId": "skill-graph",
+          "studentId": "student-13"
+        },
+        {
+          "assessmentId": "assessment-20261016",
+          "attemptId": "attempt-13-item-trend",
+          "authority": "assessment_record",
+          "effectiveFrom": "2026-10-16T13:00:00-04:00",
+          "evidenceRefs": [
+            "ref-observation-13-item-trend"
+          ],
+          "factId": "observation-13-item-trend",
+          "itemId": "item-trend",
+          "kind": "observation",
+          "outcome": "incorrect",
+          "skillId": "skill-graph",
+          "studentId": "student-13"
+        },
+        {
+          "assessmentId": "assessment-20261016",
+          "attemptId": "attempt-13-item-evidence",
+          "authority": "assessment_record",
+          "effectiveFrom": "2026-10-16T13:00:00-04:00",
+          "evidenceRefs": [
+            "ref-observation-13-item-evidence"
+          ],
+          "factId": "observation-13-item-evidence",
+          "itemId": "item-evidence",
+          "kind": "observation",
+          "outcome": "incorrect",
+          "skillId": "skill-evidence",
+          "studentId": "student-13"
+        },
+        {
+          "assessmentId": "assessment-20261016",
+          "attemptId": "attempt-14-item-axis",
+          "authority": "assessment_record",
+          "effectiveFrom": "2026-10-16T13:00:00-04:00",
+          "evidenceRefs": [
+            "ref-observation-14-item-axis"
+          ],
+          "factId": "observation-14-item-axis",
+          "itemId": "item-axis",
+          "kind": "observation",
+          "outcome": "correct",
+          "skillId": "skill-graph",
+          "studentId": "student-14"
+        },
+        {
+          "assessmentId": "assessment-20261016",
+          "attemptId": "attempt-14-item-trend",
+          "authority": "assessment_record",
+          "effectiveFrom": "2026-10-16T13:00:00-04:00",
+          "evidenceRefs": [
+            "ref-observation-14-item-trend"
+          ],
+          "factId": "observation-14-item-trend",
+          "itemId": "item-trend",
+          "kind": "observation",
+          "outcome": "correct",
+          "skillId": "skill-graph",
+          "studentId": "student-14"
+        },
+        {
+          "assessmentId": "assessment-20261016",
+          "attemptId": "attempt-14-item-evidence",
+          "authority": "assessment_record",
+          "effectiveFrom": "2026-10-16T13:00:00-04:00",
+          "evidenceRefs": [
+            "ref-observation-14-item-evidence"
+          ],
+          "factId": "observation-14-item-evidence",
+          "itemId": "item-evidence",
+          "kind": "observation",
+          "outcome": "incorrect",
+          "skillId": "skill-evidence",
+          "studentId": "student-14"
+        },
+        {
+          "assessmentId": "assessment-20261016",
+          "attemptId": "attempt-15-item-axis",
+          "authority": "assessment_record",
+          "effectiveFrom": "2026-10-16T13:00:00-04:00",
+          "evidenceRefs": [
+            "ref-observation-15-item-axis"
+          ],
+          "factId": "observation-15-item-axis",
+          "itemId": "item-axis",
+          "kind": "observation",
+          "outcome": "correct",
+          "skillId": "skill-graph",
+          "studentId": "student-15"
+        },
+        {
+          "assessmentId": "assessment-20261016",
+          "attemptId": "attempt-15-item-trend",
+          "authority": "assessment_record",
+          "effectiveFrom": "2026-10-16T13:00:00-04:00",
+          "evidenceRefs": [
+            "ref-observation-15-item-trend"
+          ],
+          "factId": "observation-15-item-trend",
+          "itemId": "item-trend",
+          "kind": "observation",
+          "outcome": "correct",
+          "skillId": "skill-graph",
+          "studentId": "student-15"
+        },
+        {
+          "assessmentId": "assessment-20261016",
+          "attemptId": "attempt-15-item-evidence",
+          "authority": "assessment_record",
+          "effectiveFrom": "2026-10-16T13:00:00-04:00",
+          "evidenceRefs": [
+            "ref-observation-15-item-evidence"
+          ],
+          "factId": "observation-15-item-evidence",
+          "itemId": "item-evidence",
+          "kind": "observation",
+          "outcome": "correct",
+          "skillId": "skill-evidence",
+          "studentId": "student-15"
+        },
+        {
+          "assessmentId": "assessment-20261016",
+          "attemptId": null,
+          "authority": "assessment_record",
+          "effectiveFrom": "2026-10-16T13:00:00-04:00",
+          "evidenceRefs": [
+            "ref-observation-16-item-axis"
+          ],
+          "factId": "observation-16-item-axis",
+          "itemId": "item-axis",
+          "kind": "observation",
+          "outcome": "missing_submission",
+          "skillId": "skill-graph",
+          "studentId": "student-16"
+        },
+        {
+          "assessmentId": "assessment-20261016",
+          "attemptId": "attempt-16-item-trend",
+          "authority": "assessment_record",
+          "effectiveFrom": "2026-10-16T13:00:00-04:00",
+          "evidenceRefs": [
+            "ref-observation-16-item-trend"
+          ],
+          "factId": "observation-16-item-trend",
+          "itemId": "item-trend",
+          "kind": "observation",
+          "outcome": "correct",
+          "skillId": "skill-graph",
+          "studentId": "student-16"
+        },
+        {
+          "assessmentId": "assessment-20261016",
+          "attemptId": "attempt-16-item-evidence",
+          "authority": "assessment_record",
+          "effectiveFrom": "2026-10-16T13:00:00-04:00",
+          "evidenceRefs": [
+            "ref-observation-16-item-evidence"
+          ],
+          "factId": "observation-16-item-evidence",
+          "itemId": "item-evidence",
+          "kind": "observation",
+          "outcome": "correct",
+          "skillId": "skill-evidence",
+          "studentId": "student-16"
+        },
+        {
+          "assessmentId": "assessment-20261016",
+          "attemptId": "attempt-17-item-axis",
+          "authority": "assessment_record",
+          "effectiveFrom": "2026-10-16T13:00:00-04:00",
+          "evidenceRefs": [
+            "ref-observation-17-item-axis"
+          ],
+          "factId": "observation-17-item-axis",
+          "itemId": "item-axis",
+          "kind": "observation",
+          "outcome": "correct",
+          "skillId": "skill-graph",
+          "studentId": "student-17"
+        },
+        {
+          "assessmentId": "assessment-20261016",
+          "attemptId": "attempt-17-item-trend",
+          "authority": "assessment_record",
+          "effectiveFrom": "2026-10-16T13:00:00-04:00",
+          "evidenceRefs": [
+            "ref-observation-17-item-trend"
+          ],
+          "factId": "observation-17-item-trend",
+          "itemId": "item-trend",
+          "kind": "observation",
+          "outcome": "correct",
+          "skillId": "skill-graph",
+          "studentId": "student-17"
+        },
+        {
+          "assessmentId": "assessment-20261016",
+          "attemptId": "attempt-18-item-axis",
+          "authority": "assessment_record",
+          "effectiveFrom": "2026-10-16T13:00:00-04:00",
+          "evidenceRefs": [
+            "ref-observation-18-item-axis"
+          ],
+          "factId": "observation-18-item-axis",
+          "itemId": "item-axis",
+          "kind": "observation",
+          "outcome": "incorrect",
+          "skillId": "skill-graph",
+          "studentId": "student-18"
+        },
+        {
+          "assessmentId": "assessment-20261016",
+          "attemptId": "attempt-18-item-trend",
+          "authority": "assessment_record",
+          "effectiveFrom": "2026-10-16T13:00:00-04:00",
+          "evidenceRefs": [
+            "ref-observation-18-item-trend"
+          ],
+          "factId": "observation-18-item-trend",
+          "itemId": "item-trend",
+          "kind": "observation",
+          "outcome": "incorrect",
+          "skillId": "skill-graph",
+          "studentId": "student-18"
+        },
+        {
+          "assessmentId": "assessment-20261016",
+          "attemptId": "attempt-18-item-evidence",
+          "authority": "assessment_record",
+          "effectiveFrom": "2026-10-16T13:00:00-04:00",
+          "evidenceRefs": [
+            "ref-observation-18-item-evidence"
+          ],
+          "factId": "observation-18-item-evidence",
+          "itemId": "item-evidence",
+          "kind": "observation",
+          "outcome": "correct",
+          "skillId": "skill-evidence",
+          "studentId": "student-18"
+        },
+        {
+          "assessmentId": "assessment-20261016",
+          "attemptId": "attempt-19-item-axis",
+          "authority": "assessment_record",
+          "effectiveFrom": "2026-10-16T13:00:00-04:00",
+          "evidenceRefs": [
+            "ref-observation-19-item-axis"
+          ],
+          "factId": "observation-19-item-axis",
+          "itemId": "item-axis",
+          "kind": "observation",
+          "outcome": "incorrect",
+          "skillId": "skill-graph",
+          "studentId": "student-19"
+        },
+        {
+          "assessmentId": "assessment-20261016",
+          "attemptId": "attempt-19-item-trend",
+          "authority": "assessment_record",
+          "effectiveFrom": "2026-10-16T13:00:00-04:00",
+          "evidenceRefs": [
+            "ref-observation-19-item-trend"
+          ],
+          "factId": "observation-19-item-trend",
+          "itemId": "item-trend",
+          "kind": "observation",
+          "outcome": "incorrect",
+          "skillId": "skill-graph",
+          "studentId": "student-19"
+        },
+        {
+          "assessmentId": "assessment-20261016",
+          "attemptId": "attempt-19-item-evidence",
+          "authority": "assessment_record",
+          "effectiveFrom": "2026-10-16T13:00:00-04:00",
+          "evidenceRefs": [
+            "ref-observation-19-item-evidence"
+          ],
+          "factId": "observation-19-item-evidence",
+          "itemId": "item-evidence",
+          "kind": "observation",
+          "outcome": "incorrect",
+          "skillId": "skill-evidence",
+          "studentId": "student-19"
+        },
+        {
+          "assessmentId": "assessment-20261016",
+          "attemptId": "attempt-20-item-axis",
+          "authority": "assessment_record",
+          "effectiveFrom": "2026-10-16T13:00:00-04:00",
+          "evidenceRefs": [
+            "ref-observation-20-item-axis"
+          ],
+          "factId": "observation-20-item-axis",
+          "itemId": "item-axis",
+          "kind": "observation",
+          "outcome": "correct",
+          "skillId": "skill-graph",
+          "studentId": "student-20"
+        },
+        {
+          "assessmentId": "assessment-20261016",
+          "attemptId": "attempt-20-item-trend",
+          "authority": "assessment_record",
+          "effectiveFrom": "2026-10-16T13:00:00-04:00",
+          "evidenceRefs": [
+            "ref-observation-20-item-trend"
+          ],
+          "factId": "observation-20-item-trend",
+          "itemId": "item-trend",
+          "kind": "observation",
+          "outcome": "correct",
+          "skillId": "skill-graph",
+          "studentId": "student-20"
+        },
+        {
+          "assessmentId": "assessment-20261016",
+          "attemptId": "attempt-20-item-evidence",
+          "authority": "assessment_record",
+          "effectiveFrom": "2026-10-16T13:00:00-04:00",
+          "evidenceRefs": [
+            "ref-observation-20-item-evidence"
+          ],
+          "factId": "observation-20-item-evidence",
+          "itemId": "item-evidence",
+          "kind": "observation",
+          "outcome": "incorrect",
+          "skillId": "skill-evidence",
+          "studentId": "student-20"
+        },
+        {
+          "assessmentId": "assessment-20261016",
+          "attemptId": "attempt-21-item-axis",
+          "authority": "assessment_record",
+          "effectiveFrom": "2026-10-16T13:00:00-04:00",
+          "evidenceRefs": [
+            "ref-observation-21-item-axis"
+          ],
+          "factId": "observation-21-item-axis",
+          "itemId": "item-axis",
+          "kind": "observation",
+          "outcome": "correct",
+          "skillId": "skill-graph",
+          "studentId": "student-21"
+        },
+        {
+          "assessmentId": "assessment-20261016",
+          "attemptId": "attempt-21-item-trend",
+          "authority": "assessment_record",
+          "effectiveFrom": "2026-10-16T13:00:00-04:00",
+          "evidenceRefs": [
+            "ref-observation-21-item-trend"
+          ],
+          "factId": "observation-21-item-trend",
+          "itemId": "item-trend",
+          "kind": "observation",
+          "outcome": "correct",
+          "skillId": "skill-graph",
+          "studentId": "student-21"
+        },
+        {
+          "assessmentId": "assessment-20261016",
+          "attemptId": "attempt-21-item-evidence",
+          "authority": "assessment_record",
+          "effectiveFrom": "2026-10-16T13:00:00-04:00",
+          "evidenceRefs": [
+            "ref-observation-21-item-evidence"
+          ],
+          "factId": "observation-21-item-evidence",
+          "itemId": "item-evidence",
+          "kind": "observation",
+          "outcome": "correct",
+          "skillId": "skill-evidence",
+          "studentId": "student-21"
+        },
+        {
+          "assessmentId": "assessment-20261016",
+          "attemptId": null,
+          "authority": "assessment_record",
+          "effectiveFrom": "2026-10-16T13:00:00-04:00",
+          "evidenceRefs": [
+            "ref-observation-22-item-axis"
+          ],
+          "factId": "observation-22-item-axis",
+          "itemId": "item-axis",
+          "kind": "observation",
+          "outcome": "missing_submission",
+          "skillId": "skill-graph",
+          "studentId": "student-22"
+        },
+        {
+          "assessmentId": "assessment-20261016",
+          "attemptId": "attempt-22-item-trend",
+          "authority": "assessment_record",
+          "effectiveFrom": "2026-10-16T13:00:00-04:00",
+          "evidenceRefs": [
+            "ref-observation-22-item-trend"
+          ],
+          "factId": "observation-22-item-trend",
+          "itemId": "item-trend",
+          "kind": "observation",
+          "outcome": "correct",
+          "skillId": "skill-graph",
+          "studentId": "student-22"
+        },
+        {
+          "assessmentId": "assessment-20261016",
+          "attemptId": "attempt-22-item-evidence",
+          "authority": "assessment_record",
+          "effectiveFrom": "2026-10-16T13:00:00-04:00",
+          "evidenceRefs": [
+            "ref-observation-22-item-evidence"
+          ],
+          "factId": "observation-22-item-evidence",
+          "itemId": "item-evidence",
+          "kind": "observation",
+          "outcome": "correct",
+          "skillId": "skill-evidence",
+          "studentId": "student-22"
+        },
+        {
+          "assessmentId": "assessment-20261016",
+          "attemptId": "attempt-23-item-axis",
+          "authority": "assessment_record",
+          "effectiveFrom": "2026-10-16T13:00:00-04:00",
+          "evidenceRefs": [
+            "ref-observation-23-item-axis"
+          ],
+          "factId": "observation-23-item-axis",
+          "itemId": "item-axis",
+          "kind": "observation",
+          "outcome": "correct",
+          "skillId": "skill-graph",
+          "studentId": "student-23"
+        },
+        {
+          "assessmentId": "assessment-20261016",
+          "attemptId": "attempt-23-item-trend",
+          "authority": "assessment_record",
+          "effectiveFrom": "2026-10-16T13:00:00-04:00",
+          "evidenceRefs": [
+            "ref-observation-23-item-trend"
+          ],
+          "factId": "observation-23-item-trend",
+          "itemId": "item-trend",
+          "kind": "observation",
+          "outcome": "correct",
+          "skillId": "skill-graph",
+          "studentId": "student-23"
+        },
+        {
+          "assessmentId": "assessment-20261016",
+          "attemptId": "attempt-24-item-axis",
+          "authority": "assessment_record",
+          "effectiveFrom": "2026-10-16T13:00:00-04:00",
+          "evidenceRefs": [
+            "ref-observation-24-item-axis"
+          ],
+          "factId": "observation-24-item-axis",
+          "itemId": "item-axis",
+          "kind": "observation",
+          "outcome": "incorrect",
+          "skillId": "skill-graph",
+          "studentId": "student-24"
+        },
+        {
+          "assessmentId": "assessment-20261016",
+          "attemptId": "attempt-24-item-trend",
+          "authority": "assessment_record",
+          "effectiveFrom": "2026-10-16T13:00:00-04:00",
+          "evidenceRefs": [
+            "ref-observation-24-item-trend"
+          ],
+          "factId": "observation-24-item-trend",
+          "itemId": "item-trend",
+          "kind": "observation",
+          "outcome": "incorrect",
+          "skillId": "skill-graph",
+          "studentId": "student-24"
+        },
+        {
+          "assessmentId": "assessment-20261016",
+          "attemptId": "attempt-24-item-evidence",
+          "authority": "assessment_record",
+          "effectiveFrom": "2026-10-16T13:00:00-04:00",
+          "evidenceRefs": [
+            "ref-observation-24-item-evidence"
+          ],
+          "factId": "observation-24-item-evidence",
+          "itemId": "item-evidence",
+          "kind": "observation",
+          "outcome": "correct",
+          "skillId": "skill-evidence",
+          "studentId": "student-24"
+        }
+      ],
+      "reason": "Synthetic ingestion asset; no provider called.",
+      "requested": true,
+      "schemaVersion": "instruct.provider.v1",
+      "source": "fabric",
+      "state": "succeeded"
+    },
+    {
+      "assessmentId": "assessment-20261016",
+      "classId": "class-science-7a",
+      "durationMs": 0,
+      "evidence": [],
+      "facts": [],
+      "reason": null,
+      "requested": false,
+      "schemaVersion": "instruct.provider.v1",
+      "source": "work",
+      "state": "not_requested"
+    },
+    {
+      "assessmentId": "assessment-20261016",
+      "classId": "class-science-7a",
+      "durationMs": 0,
+      "evidence": [],
+      "facts": [],
+      "reason": null,
+      "requested": false,
+      "schemaVersion": "instruct.provider.v1",
+      "source": "web",
+      "state": "not_requested"
+    }
+  ],
+  "synthetic": true,
+  "teacher": {
+    "subject": "synthetic-teacher",
+    "tenantId": "synthetic-tenant"
+  }
+}

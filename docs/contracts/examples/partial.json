@@ -1,0 +1,42 @@
+{
+  "schemaVersion":"instruct.final.v1",
+  "requestId":"request-demo-partial",
+  "result":{
+    "schemaVersion":"instruct.plan.v1","planId":"plan-demo-partial","revision":1,"requestId":"request-demo-partial",
+    "principal":{"tenantId":"tenant-synthetic","subject":"teacher-synthetic"},
+    "classId":"class-science-7a","assessmentId":"assessment-20261016",
+    "scenario":{"assessmentDate":"2026-10-16","lessonDate":"2026-10-19","timezone":"America/New_York","planningCutoff":"2026-10-19T07:00:00-04:00","lessonMinutes":35,"studentCount":24},
+    "generatedAt":"2026-10-19T07:00:00-04:00","executionMode":"development_example","status":"partial",
+    "sources":[
+      {"schemaVersion":"instruct.provider.v1","classId":"class-science-7a","assessmentId":"assessment-20261016","source":"foundry","requested":true,"state":"unavailable","reason":"Development-only simulated required-provider unavailability.","durationMs":0,"evidence":[],"facts":[]},
+      {
+        "schemaVersion":"instruct.provider.v1","classId":"class-science-7a","assessmentId":"assessment-20261016","source":"fabric","requested":true,"state":"succeeded","reason":"Development-only example; no provider was called.","durationMs":0,
+        "evidence":[{
+          "refId":"ref-partial-assessment","classId":"class-science-7a","source":"fabric","documentId":"doc-partial-assessment","title":"Development-only partial assessment coverage","locator":"synthetic-content:1",
+          "excerpt":"Synthetic roster contains student-01 through student-24. Student-04 has no graph assessment submission. No other required-skill observations are available.",
+          "provenance":{"mode":"development_example","nativeId":"development-only:partial-assessment","nativeRevision":"synthetic-v1","retrievedAt":"2026-10-19T06:59:00-04:00","contentSha256":"5fba39a999a5289523912e826c164474fb9884f3446342286f20ed4c3fa9660f","adapter":"development-only-no-provider"},
+          "publicUrl":null
+        }],
+        "facts":[
+          {"factId":"fact-partial-roster","kind":"roster","authority":"assessment_record","evidenceRefs":["ref-partial-assessment"],"effectiveFrom":"2026-10-16T00:00:00-04:00","studentIds":["student-01","student-02","student-03","student-04","student-05","student-06","student-07","student-08","student-09","student-10","student-11","student-12","student-13","student-14","student-15","student-16","student-17","student-18","student-19","student-20","student-21","student-22","student-23","student-24"]},
+          {"factId":"fact-partial-missing","kind":"observation","authority":"assessment_record","evidenceRefs":["ref-partial-assessment"],"effectiveFrom":"2026-10-16T12:00:00-04:00","assessmentId":"assessment-20261016","studentId":"student-04","skillId":"skill-graph","itemId":"item-graph","attemptId":null,"outcome":"missing_submission"}
+        ]
+      },
+      {"schemaVersion":"instruct.provider.v1","classId":"class-science-7a","assessmentId":"assessment-20261016","source":"work","requested":false,"state":"not_requested","reason":null,"durationMs":0,"evidence":[],"facts":[]},
+      {"schemaVersion":"instruct.provider.v1","classId":"class-science-7a","assessmentId":"assessment-20261016","source":"web","requested":false,"state":"not_requested","reason":null,"durationMs":0,"evidence":[],"facts":[]}
+    ],
+    "groups":[{
+      "groupId":"group-partial-insufficient","need":"insufficient_evidence","provisional":true,
+      "studentIds":["student-01","student-02","student-03","student-04","student-05","student-06","student-07","student-08","student-09","student-10","student-11","student-12","student-13","student-14","student-15","student-16","student-17","student-18","student-19","student-20","student-21","student-22","student-23","student-24"],
+      "overlappingNeeds":{},
+      "rationale":{"claimId":"claim-partial-rationale","text":"All 24 roster members lack sufficient required-skill evidence; student-04 explicitly has a missing graph submission. No low-mastery inference is justified.","basis":"supported_fact","factIds":["fact-partial-roster","fact-partial-missing"],"evidenceRefs":["ref-partial-assessment"]},
+      "scaffold":{"claimId":"claim-partial-scaffold","text":"Propose a teacher evidence check only; an approved lesson is blocked until required curriculum, supports and schedule are available.","basis":"instructional_proposal","factIds":[],"evidenceRefs":[]}
+    }],
+    "package":null,
+    "issues":[
+      {"issueId":"issue-foundry","code":"required_source_missing","affected":"lesson","blocking":true,"message":"Required approved curriculum and requirements are unavailable; no approved lesson has been generated.","factIds":[],"evidenceRefs":[],"resolution":"Restore required Foundry retrieval and rerun with verified approval metadata."},
+      {"issueId":"issue-partial-insufficient","code":"insufficient_evidence","affected":"student_evidence","blocking":false,"message":"The roster is known but required-skill evidence is insufficient for all 24 learners.","factIds":["fact-partial-roster","fact-partial-missing"],"evidenceRefs":["ref-partial-assessment"],"resolution":"Obtain missing submissions or conduct a teacher check; do not mark missing as incorrect."}
+    ],
+    "unresolvedQuestions":["When will required approved curriculum and requirements become available?"]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "schemaVersion":"instruct.final.v1","requestId":"request-demo-blocked",
+  "result":{
+    "schemaVersion":"instruct.plan.v1","planId":"plan-demo-blocked","revision":1,"requestId":"request-demo-blocked",
+    "principal":{"tenantId":"tenant-synthetic","subject":"teacher-synthetic"},
+    "classId":"class-science-7a","assessmentId":"assessment-20261016",
+    "scenario":{"assessmentDate":"2026-10-16","lessonDate":"2026-10-19","timezone":"America/New_York","planningCutoff":"2026-10-19T07:00:00-04:00","lessonMinutes":35,"studentCount":24},
+    "generatedAt":"2026-10-19T07:00:00-04:00","executionMode":"development_example","status":"blocked",
+    "sources":[
+      {"schemaVersion":"instruct.provider.v1","classId":"class-science-7a","assessmentId":"assessment-20261016","source":"foundry","requested":true,"state":"disabled","reason":"Development-only simulated configuration-disabled provider.","durationMs":0,"evidence":[],"facts":[]},
+      {"schemaVersion":"instruct.provider.v1","classId":"class-science-7a","assessmentId":"assessment-20261016","source":"fabric","requested":true,"state":"unavailable","reason":"Development-only simulated required-provider unavailability.","durationMs":0,"evidence":[],"facts":[]},
+      {"schemaVersion":"instruct.provider.v1","classId":"class-science-7a","assessmentId":"assessment-20261016","source":"work","requested":false,"state":"not_requested","reason":null,"durationMs":0,"evidence":[],"facts":[]},
+      {"schemaVersion":"instruct.provider.v1","classId":"class-science-7a","assessmentId":"assessment-20261016","source":"web","requested":false,"state":"not_requested","reason":null,"durationMs":0,"evidence":[],"facts":[]}
+    ],
+    "groups":[],"package":null,
+    "issues":[
+      {"issueId":"issue-required","code":"required_source_missing","affected":"lesson","blocking":true,"message":"Required assessment evidence is unavailable and required curriculum retrieval is disabled. Planning is blocked; no synthetic runtime fallback was used.","factIds":[],"evidenceRefs":[],"resolution":"Restore required provider access/configuration, verify class access and rerun."}
+    ],
+    "unresolvedQuestions":["When will both required providers be available?"]
+  }
+}
